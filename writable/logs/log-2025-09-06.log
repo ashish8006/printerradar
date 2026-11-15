@@ -1,0 +1,2633 @@
+CRITICAL - 2025-09-06 00:03:16 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 02:31:07 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 03:51:29 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 05:12:00 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 05:17:42 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 05:23:20 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 06:19:54 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 06:34:11 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 06:53:47 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 10:58:58 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 10:59:19 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 11:00:00 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 13:05:29 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 13:07:25 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 13:48:10 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 15:58:51 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 16:03:24 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 17:24:15 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 17:24:24 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 17:27:43 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 17:27:53 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 17:28:10 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 17:28:15 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 17:28:20 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 17:29:02 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 17:29:25 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 17:29:54 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 17:29:58 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-09-06 17:30:05 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2025-09-06 17:30:05 --> 220-p3plzcpnl502534.prod.phx3.secureserver.net ESMTP Exim 4.98.2 #2 Sat, 06 Sep 2025 10:29:58 -0700 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+hello: 250-p3plzcpnl502534.prod.phx3.secureserver.net Hello printersclan.com [72.167.68.198]
+250-SIZE 52428800
+250-LIMITS MAILMAX=10 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250 HELP
+
+from: 250 OK
+
+to: 250 Accepted
+
+data: 354 Enter message, ending with "." on a line by itself
+
+
+quit: 250 OK id=1uuwje-0000000Akna-39XQ
+
+The following SMTP error was encountered: 250 OK id=1uuwje-0000000Akna-39XQ
+
+The following SMTP error was encountered: 
+ERROR - 2025-09-06 17:30:05 --> 220-p3plzcpnl502534.prod.phx3.secureserver.net ESMTP Exim 4.98.2 #2 Sat, 06 Sep 2025 10:29:58 -0700 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+<br><pre>hello: 250-p3plzcpnl502534.prod.phx3.secureserver.net Hello printersclan.com [72.167.68.198]
+250-SIZE 52428800
+250-LIMITS MAILMAX=10 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250 HELP
+</pre><pre>from: 250 OK
+</pre><pre>to: 250 Accepted
+</pre><pre>data: 354 Enter message, ending with "." on a line by itself
+</pre><br><pre>quit: 250 OK id=1uuwje-0000000Akna-39XQ
+</pre>The following SMTP error was encountered: 250 OK id=1uuwje-0000000Akna-39XQ
+<br>The following SMTP error was encountered: <br>Unable to send email using SMTP. Your server might not be configured to send mail using this method.<br><pre>Date: Sat, 6 Sep 2025 17:29:58 +0000
+From: &quot;Printersclan Team&quot; &lt;noreply@printersclan.com&gt;
+Return-Path: &lt;noreply@printersclan.com&gt;
+To: arungpatelmd@yahoo.com
+Subject: =?UTF-8?Q?Support=20Confirmation?=
+Reply-To: &lt;noreply@printersclan.com&gt;
+User-Agent: CodeIgniter
+X-Sender: noreply@printersclan.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;68bc6f96a701e3.27986543@printersclan.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_68bc6f96a70366.77640749&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_68bc6f96a70366.77640749
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+&amp;nbsp;
+
+
+
+
+
+
+ PRINTERSCLAN
+
+
+
+
+
+ &amp;nbsp;
+
+
+
+
+
+ &amp;nbsp;
+
+
+ &amp;nbsp;
+
+
+
+ Dear Arunbhai We hope this email finds you well.
+ We appreciate you reaching out about issues with your
+ HP printer
+ HJKAS
+
+
+
+
+
+
+
+
+
+ Wi-Fi / Wireless setup (Windows)
+
+
+
+ In the first step, connect the printer to WiFi.
+
+
+ Then, download the printer driver from the official page.
+
+
+
+ Next, double-tap the downloaded file.
+
+
+ Now, you have to complete the installation steps.
+
+
+ In the next step, tap the Window key + R.
+
+
+ Next, the Run dialogue box will open.
+
+
+ Now, enter “control/name Microsoft.DevicesAndPrinters.”
+
+
+
+ After that, click the OK button.
+
+
+ Then, the Devices and Printers folder will open.
+
+
+ Next, your screen will display the Add Printer option.
+
+
+
+ Click the Add Printer button and follow the prompts.
+
+
+
+
+
+
+ Wi-Fi / Wireless setup (Mac)
+
+
+ Firstly, you will need to turn on the Mac device and
+ printer.
+
+
+ Next, connect the printer to the wireless network.
+
+
+ Now, go to the official page and download the printer
+ driver.
+
+
+ Then, complete the driver installation process.
+
+
+ After that, go to the Apple Menu.
+
+
+ In the menu, you have to click the System and Preferences
+ option.
+
+
+ On the next screen, select the Printers and Scanners
+ option.
+
+
+ Thereafter, you need to click the “+” sign and add the
+ printer.
+
+
+ From the pop-up window, choose your printer.
+
+
+ Then, tap on the Add button.
+
+
+ After adding your printer, its icon will appear on the
+ screen.
+
+
+ Finally! You are all set on a Mac device.
+
+
+
+
+
+
+
+
+
+
+
+ &amp;nbsp;
+
+
+
+
+
+ If your issue is still not resolved or you&#039;re unable to follow these
+ instructions, contact our troubleshooting experts, who will diagnose the
+ specific problem you&#039;re facing. Our certified experts will help you resolve
+ the issue over the phone CALL OUR EXPERTS +1-512-885-1530.
+
+
+
+
+
+
+
+
+
+
+ &amp;nbsp;
+
+
+
+
+ &amp;copy; https://printersclan.com
+
+
+
+ &amp;nbsp;
+
+
+--B_ALT_68bc6f96a70366.77640749
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+&lt;!doctype html&gt;=0A&lt;html lang=3D&quot;en-US&quot;&gt;=0A=0A&lt;head&gt;=0A    &lt;meta content=3D&quot;=
+text/html; charset=3Dutf-8&quot; http-equiv=3D&quot;Content-Type&quot; /&gt;=0A    &lt;title&gt;Pri=
+ntersclan&lt;/title&gt;=0A    &lt;meta name=3D&quot;description&quot; content=3D&quot;Reset Passwor=
+d Email Template.&quot;&gt;=0A    &lt;style type=3D&quot;text/css&quot;&gt;=0A        a {=0A       =
+     text-decoration: none;=0A            font-size: 19px;=0A            fo=
+nt-family: rubik, sans-serif;=0A            cursor: auto;=0A        }=0A=0A=
+        .acod-content {=0A            font-family: Rubik, sans-serif;=0A   =
+         font-size: 18px;=0A        }=0A=0A        .errorcodeboxstepbox,=0A=
+        .userinfo,=0A        .printerwontprint_blankstepbox,=0A        .pap=
+erjamstepbox,=0A        .scannerissuestepbox,=0A        .setupprinterboxste=
+pbox {=0A            text-align: start;=0A        }=0A    &lt;/style&gt;=0A&lt;/head=
+&gt;=0A=0A=0A&lt;body marginheight=3D&quot;0&quot; topmargin=3D&quot;0&quot; marginwidth=3D&quot;0&quot; style=
+=3D&quot;margin: 0px; background-color: #f2f3f8;&quot; leftmargin=3D&quot;0&quot;&gt;=0A    &lt;!--10=
+0% body table--&gt;=0A    &lt;table cellspacing=3D&quot;0&quot; border=3D&quot;0&quot; cellpadding=3D=
+&quot;0&quot; width=3D&quot;100%&quot; bgcolor=3D&quot;#f2f3f8&quot;=0A        style=3D&quot;@import url(https=
+://fonts.googleapis.com/css?family=3DRubik:300,400,500,700|Open+Sans:300,40=
+0,600,700); font-family: &#039;Open Sans&#039;, sans-serif;&quot;&gt;=0A        &lt;tr&gt;=0A      =
+      &lt;td&gt;=0A                &lt;table style=3D&quot;background-color: #f2f3f8; max=
+-width:670px;  margin:0 auto;&quot; width=3D&quot;100%&quot; border=3D&quot;0&quot;=0A              =
+      align=3D&quot;center&quot; cellpadding=3D&quot;0&quot; cellspacing=3D&quot;0&quot;&gt;=0A             =
+       &lt;tr&gt;=0A                        &lt;td style=3D&quot;height:10px;&quot;&gt;&amp;nbsp;&lt;/td=
+&gt;=0A                    &lt;/tr&gt;=0A                    &lt;tr&gt;=0A                =
+        &lt;td style=3D&quot;text-align:center;&quot;&gt;=0A                            &lt;a =
+href=3D&quot;https://printersclan.com/&quot; style=3D&quot;=0A                            =
+        text-decoration: none;=0A                                    displa=
+y: flex;=0A                                    justify-content: center;=0A =
+                               &quot;&gt;=0A                                &lt;img sr=
+c=3D&quot;https://printersclan.com/asset/images/printersclaniconlogo.png&quot; alt=3D=
+&quot;&quot; style=3D&quot;=0A                                    width: 72px;=0A         =
+                           position: relative;=0A                          =
+          left: 30px;=0A                                &quot; srcset=3D&quot;&quot;&gt;=0A  =
+                              &lt;div style=3D&quot;=0A                            =
+        left: 44px;=0A                                    position: relativ=
+e;=0A                                    font-size: 31px;=0A               =
+                     text-decoration: none;=0A                             =
+       top: 25px;=0A                                &quot;&gt;=0A                  =
+                  &lt;span class=3D&quot;&quot; style=3D&quot;color: #004db1;font-weight:800;=
+&quot;&gt;PRINTERS&lt;/span&gt;&lt;span=0A                                        style=3D&quot;c=
+olor:yellow;font-weight:800;&quot;&gt;CLAN&lt;/span&gt;=0A                               =
+ &lt;/div&gt;=0A                            &lt;/a&gt;=0A                        &lt;/td&gt;=
+=0A                    &lt;/tr&gt;=0A                    &lt;tr&gt;=0A                 =
+       &lt;td style=3D&quot;height:20px;&quot;&gt;&amp;nbsp;&lt;/td&gt;=0A                    &lt;/tr&gt;=
+=0A                    &lt;tr&gt;=0A                        &lt;td&gt;=0A              =
+              &lt;table width=3D&quot;95%&quot; border=3D&quot;0&quot; align=3D&quot;center&quot; cellpaddin=
+g=3D&quot;0&quot; cellspacing=3D&quot;0&quot;=0A                                style=3D&quot;max-wi=
+dth:670px;background:#fff; border-radius:3px; text-align:center;-webkit-box=
+-shadow:0 6px 18px 0 rgba(0,0,0,.06);-moz-box-shadow:0 6px 18px 0 rgba(0,0,=
+0,.06);box-shadow:0 6px 18px 0 rgba(0,0,0,.06);&quot;&gt;=0A                       =
+         &lt;tr&gt;=0A                                    &lt;td style=3D&quot;height:40p=
+x;&quot;&gt;&amp;nbsp;&lt;/td&gt;=0A                                &lt;/tr&gt;=0A                 =
+               &lt;tr&gt;=0A                                    &lt;td style=3D&quot;heig=
+ht:20px;&quot;&gt;&amp;nbsp;&lt;/td&gt;=0A                                &lt;/tr&gt;=0A=0A        =
+                        &lt;tr class=3D&quot;userinfo&quot;&gt;=0A                         =
+           &lt;td style=3D&quot;padding:10px 35px;&quot;&gt;&lt;strong&gt;Dear &lt;/strong&gt;Arunbhai =
+                                       &lt;p&gt;We hope this email finds you well=
+.&lt;/p&gt;=0A                                        &lt;p&gt;We appreciate you reachi=
+ng out about issues with your=0A                                           =
+ &lt;strong&gt;HP&lt;/strong&gt; printer=0A                                            =
+&lt;strong&gt;HJKAS&lt;/strong&gt;=0A                                        &lt;/p&gt;=0A   =
+                                 &lt;/td&gt;=0A                                &lt;/=
+tr&gt;=0A=0A=0A                                &lt;tr&gt;=0A                        =
+            &lt;td style=3D&quot;padding:0 35px;&quot;&gt;=0A                              =
+                                                          &lt;div class=3D&quot;wif=
+iorwireless&quot;&gt;=0A                                                    &lt;div cl=
+ass=3D&quot;col-lg-12 paperjamstepbox&quot;&gt;=0A                                      =
+                  &lt;div class=3D&quot;shadow cardbackgroundcolor p-3 setupforwind=
+ow&quot;&gt;=0A                                                            &lt;h3 clas=
+s=3D&quot;mt-2 my-3 text-primary&quot;&gt;Wi-Fi / Wireless setup (Windows)=0A           =
+                                                 &lt;/h3&gt;=0A                  =
+                                          &lt;ul class=3D&quot;scannerissuelisting =
+p-0&quot;&gt;=0A                                                                &lt;li=
+&gt;=0A                                                                    &lt;p&gt;=
+In the first step, connect the printer to WiFi.&lt;/p&gt;=0A                     =
+                                           &lt;/li&gt;=0A                        =
+                                        &lt;li&gt;=0A                            =
+                                        &lt;p&gt;Then, download the printer drive=
+r from the official page.=0A                                               =
+                     &lt;/p&gt;=0A                                               =
+                 &lt;/li&gt;=0A                                                  =
+              &lt;li&gt;=0A                                                      =
+              &lt;p&gt;Next, double-tap the downloaded file.&lt;/p&gt;=0A              =
+                                                  &lt;/li&gt;=0A                 =
+                                               &lt;li&gt;=0A                     =
+                                               &lt;p&gt;Now, you have to complete=
+ the installation steps.&lt;/p&gt;=0A                                            =
+                    &lt;/li&gt;=0A                                               =
+                 &lt;li&gt;=0A                                                   =
+                 &lt;p&gt;In the next step, tap the Window key + R.&lt;/p&gt;=0A       =
+                                                         &lt;/li&gt;=0A          =
+                                                      &lt;li&gt;=0A              =
+                                                      &lt;p&gt;Next, the Run dial=
+ogue box will open.&lt;/p&gt;=0A                                                 =
+               &lt;/li&gt;=0A                                                    =
+            &lt;li&gt;=0A                                                        =
+            &lt;p&gt;Now, enter =E2=80=9Ccontrol/name Microsoft.DevicesAndPrinter=
+s.=E2=80=9D=0A                                                             =
+       &lt;/p&gt;=0A                                                             =
+   &lt;/li&gt;=0A                                                                =
+&lt;li&gt;=0A                                                                    =
+&lt;p&gt;After that, click the OK button.&lt;/p&gt;=0A                                 =
+                               &lt;/li&gt;=0A                                    =
+                            &lt;li&gt;=0A                                        =
+                            &lt;p&gt;Then, the Devices and Printers folder will o=
+pen.&lt;/p&gt;=0A                                                                =
+&lt;/li&gt;=0A                                                                &lt;li=
+&gt;=0A                                                                    &lt;p&gt;=
+Next, your screen will display the Add Printer option.=0A                  =
+                                                  &lt;/p&gt;=0A                  =
+                                              &lt;/li&gt;=0A                     =
+                                           &lt;li&gt;=0A                         =
+                                           &lt;p&gt;Click the Add Printer button =
+and follow the prompts.&lt;/p&gt;=0A                                             =
+                   &lt;/li&gt;=0A=0A                                             =
+               &lt;/ul&gt;=0A                                                    =
+    &lt;/div&gt;=0A=0A                                                        &lt;di=
+v class=3D&quot;shadow cardbackgroundcolor p-3 my-3 setformac&quot;&gt;=0A              =
+                                              &lt;h3 class=3D&quot;mt-2 my-3 text-p=
+rimary&quot;&gt;Wi-Fi / Wireless setup (Mac)&lt;/h3&gt;=0A                               =
+                             &lt;ul class=3D&quot;scannerissuelisting p-0&quot;&gt;=0A     =
+                                                           &lt;li&gt;=0A         =
+                                                           &lt;p&gt;Firstly, you =
+will need to turn on the Mac device and=0A                                 =
+                                       printer.&lt;/p&gt;=0A                     =
+                                           &lt;/li&gt;=0A                        =
+                                        &lt;li&gt;=0A                            =
+                                        &lt;p&gt;Next, connect the printer to the=
+ wireless network.&lt;/p&gt;=0A                                                  =
+              &lt;/li&gt;=0A                                                     =
+           &lt;li&gt;=0A                                                         =
+           &lt;p&gt;Now, go to the official page and download the printer=0A     =
+                                                                   driver.&lt;=
+/p&gt;=0A                                                                &lt;/li&gt;=
+=0A                                                                &lt;li&gt;=0A =
+                                                                   &lt;p&gt;Then,=
+ complete the driver installation process.&lt;/p&gt;=0A                          =
+                                      &lt;/li&gt;=0A                             =
+                                   &lt;li&gt;=0A                                 =
+                                   &lt;p&gt;After that, go to the Apple Menu.&lt;/p&gt;=
+=0A                                                                &lt;/li&gt;=0A=
+                                                                &lt;li&gt;=0A    =
+                                                                &lt;p&gt;In the m=
+enu, you have to click the System and Preferences=0A                       =
+                                                 option.&lt;/p&gt;=0A            =
+                                                    &lt;/li&gt;=0A               =
+                                                 &lt;li&gt;=0A                   =
+                                                 &lt;p&gt;On the next screen, sel=
+ect the Printers and Scanners=0A                                           =
+                             option.&lt;/p&gt;=0A                                =
+                                &lt;/li&gt;=0A                                   =
+                             &lt;li&gt;=0A                                       =
+                             &lt;p&gt;Thereafter, you need to click the =E2=80=
+=9C+=E2=80=9D sign and add the=0A                                          =
+                              printer.&lt;/p&gt;=0A                              =
+                                  &lt;/li&gt;=0A                                 =
+                               &lt;li&gt;=0A                                     =
+                               &lt;p&gt;From the pop-up window, choose your print=
+er.&lt;/p&gt;=0A                                                                &lt;=
+/li&gt;=0A                                                                &lt;li&gt;=
+=0A                                                                    &lt;p&gt;T=
+hen, tap on the Add button.&lt;/p&gt;=0A                                         =
+                       &lt;/li&gt;=0A                                            =
+                    &lt;li&gt;=0A                                                =
+                    &lt;p&gt;After adding your printer, its icon will appear on t=
+he=0A                                                                      =
+  screen.&lt;/p&gt;=0A                                                           =
+     &lt;/li&gt;=0A                                                              =
+  &lt;li&gt;=0A                                                                  =
+  &lt;p&gt;Finally! You are all set on a Mac device.&lt;/p&gt;=0A                      =
+                                          &lt;/li&gt;=0A=0A                      =
+                                      &lt;/ul&gt;=0A                             =
+                           &lt;/div&gt;=0A                                       =
+             &lt;/div&gt;=0A                                                &lt;/div=
+&gt;=0A=0A                                                                    =
+        &lt;/td&gt;=0A                                &lt;/tr&gt;=0A=0A=0A             =
+                   &lt;tr&gt;=0A                                    &lt;td style=3D&quot;=
+height:40px;&quot;&gt;&amp;nbsp;&lt;/td&gt;=0A                                &lt;/tr&gt;=0A=0A    =
+                            &lt;tr&gt;=0A                                    &lt;div=
+=0A                                        style=3D&quot;background-color: #2750=
+78; padding: 20px; text-align: center; border-top: 1px solid #ddd; font-fam=
+ily: Arial, sans-serif; color: #ffffff;&quot;&gt;=0A                               =
+         &lt;p style=3D&quot;margin: 0; font-size: 18px; line-height: 1.6;&quot;&gt;=0A    =
+                                        If your issue is still not resolved=
+ or you&#039;re unable to follow these=0A                                       =
+     instructions, contact our troubleshooting experts, who will diagnose t=
+he=0A                                            specific problem you&#039;re fa=
+cing. Our certified experts will help you resolve=0A                       =
+                     the issue over the phone &lt;br&gt; CALL OUR EXPERTS +1-512-=
+885-1530.=0A                                        &lt;/p&gt;=0A                =
+                    =0A                                    &lt;/div&gt;=0A=0A    =
+                            &lt;/tr&gt;=0A=0A                            &lt;/table&gt;=
+=0A                        &lt;/td&gt;=0A=0A=0A=0A                    &lt;tr&gt;=0A    =
+                    &lt;td style=3D&quot;height:20px;&quot;&gt;&amp;nbsp;&lt;/td&gt;=0A              =
+      &lt;/tr&gt;=0A                    &lt;tr&gt;=0A                        &lt;td style=
+=3D&quot;text-align:center;&quot;&gt;=0A                            &lt;p=0A               =
+                 style=3D&quot;font-size:14px; color:rgba(69, 80, 86, 0.74117647=
+05882353); line-height:18px; margin:0 0 0;&quot;&gt;=0A                            =
+    &amp;copy; &lt;strong&gt;https://printersclan.com&lt;/strong&gt;&lt;/p&gt;=0A                =
+        &lt;/td&gt;=0A                    &lt;/tr&gt;=0A                    &lt;tr&gt;=0A    =
+                    &lt;td style=3D&quot;height:80px;&quot;&gt;&amp;nbsp;&lt;/td&gt;=0A              =
+      &lt;/tr&gt;=0A                &lt;/table&gt;=0A            &lt;/td&gt;=0A        &lt;/tr&gt;=
+=0A    &lt;/table&gt;=0A&lt;/body&gt;=0A=0A&lt;/html&gt;
+
+--B_ALT_68bc6f96a70366.77640749--</pre>
+CRITICAL - 2025-09-06 17:30:24 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 17:32:39 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 17:32:58 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 17:33:30 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 17:34:42 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 17:34:54 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 17:35:07 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 17:37:50 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 17:38:38 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 17:38:52 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 17:39:40 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 17:39:44 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 17:40:14 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 17:41:41 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 17:41:46 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 17:42:39 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 17:42:57 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 17:42:59 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 17:44:10 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 17:44:15 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 17:44:25 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 17:44:26 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-09-06 17:44:33 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2025-09-06 17:44:33 --> 220-p3plzcpnl502534.prod.phx3.secureserver.net ESMTP Exim 4.98.2 #2 Sat, 06 Sep 2025 10:44:26 -0700 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+hello: 250-p3plzcpnl502534.prod.phx3.secureserver.net Hello printersclan.com [72.167.68.198]
+250-SIZE 52428800
+250-LIMITS MAILMAX=10 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250 HELP
+
+from: 250 OK
+
+to: 250 Accepted
+
+data: 354 Enter message, ending with "." on a line by itself
+
+
+quit: 250 OK id=1uuwxe-0000000AoBn-1rw5
+
+The following SMTP error was encountered: 250 OK id=1uuwxe-0000000AoBn-1rw5
+
+The following SMTP error was encountered: 
+ERROR - 2025-09-06 17:44:33 --> 220-p3plzcpnl502534.prod.phx3.secureserver.net ESMTP Exim 4.98.2 #2 Sat, 06 Sep 2025 10:44:26 -0700 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+<br><pre>hello: 250-p3plzcpnl502534.prod.phx3.secureserver.net Hello printersclan.com [72.167.68.198]
+250-SIZE 52428800
+250-LIMITS MAILMAX=10 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250 HELP
+</pre><pre>from: 250 OK
+</pre><pre>to: 250 Accepted
+</pre><pre>data: 354 Enter message, ending with "." on a line by itself
+</pre><br><pre>quit: 250 OK id=1uuwxe-0000000AoBn-1rw5
+</pre>The following SMTP error was encountered: 250 OK id=1uuwxe-0000000AoBn-1rw5
+<br>The following SMTP error was encountered: <br>Unable to send email using SMTP. Your server might not be configured to send mail using this method.<br><pre>Date: Sat, 6 Sep 2025 17:44:26 +0000
+From: &quot;Printersclan Team&quot; &lt;noreply@printersclan.com&gt;
+Return-Path: &lt;noreply@printersclan.com&gt;
+To: juliadvs88@gmail.com
+Subject: =?UTF-8?Q?Support=20Confirmation?=
+Reply-To: &lt;noreply@printersclan.com&gt;
+User-Agent: CodeIgniter
+X-Sender: noreply@printersclan.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;68bc72fa594203.08587597@printersclan.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_68bc72fa594393.26946340&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_68bc72fa594393.26946340
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+&amp;nbsp;
+
+
+
+
+
+
+ PRINTERSCLAN
+
+
+
+
+
+ &amp;nbsp;
+
+
+
+
+
+ &amp;nbsp;
+
+
+ &amp;nbsp;
+
+
+
+ Dear Julia D. Davis Julia D. Davis We hope this email finds you well.
+ We appreciate you reaching out about issues with your
+ Canon printer
+ XDA49843
+
+
+
+
+
+
+
+
+ Setup a New Printer (Windows)
+
+
+ 1. If your printer connects by a wire
+
+
+ If your printer connects by a wire,
+ plug it into your device. It&#039;ll connect automatically, your
+ PC will download the right drivers, and you can use it right
+ away.
+
+
+ 2. To connect a wireless printer, download the latest
+ driver and software package for your printer model from
+ the official website and follow these steps:
+
+
+ a) Select the Start button, then select Settings &gt;
+ Devices &gt; Printers &amp; scanners &gt; Add a printer or
+ scanner.
+ b) Wait for it to find nearby printers, then choose the
+ one you want to use, and select Add device. If you want
+ to remove the printer later, just highlight it and
+ select Remove.
+
+ Setup a New Printer (Mac)
+
+
+ 1.Prepare your printer:
+
+
+ Use the instructions that came with your printer to
+ unpack the printer, install ink or toner, and add paper.
+ Turn on the printer and make sure it’s not displaying
+ any errors.
+
+
+ 2. Connect your printer: Follow the instructions that
+ came with the printer to connect it to the network.
+
+
+
+ If you have a Wi-Fi printer, you might need to connect
+ the printer to your Mac with a USB cable to set up Wi-Fi
+ printing. After connecting the printer to your Mac,
+ install the Mac software that came with the printer and
+ use the printer’s setup assistant to connect the printer
+ to your Wi-Fi network. After setting up, you can
+ disconnect the cable from your printer and Mac and the
+ printer should remain connected to the Wi-Fi network.
+
+
+
+ 3. Add the printer to your list of available printers:
+
+
+
+ Choose Apple menu &gt; System Settings, then click Printers
+ &amp; Scanners in the sidebar. (You may need to scroll
+ down.)
+
+
+ 4. When your printer appears in the list, select your
+ printer, then click Add.
+
+
+ It may take a minute or two for your printer to appear.
+ If you see a message prompting you to download new
+ software, make sure to download and install it.
+
+
+ 5. If you do not see your printer listed on the left,
+ click the Add Printer, Scanner or Fax button on the
+ right.
+
+
+
+ A dialogue appears listing printers on your local network.
+
+
+
+
+
+
+ &amp;nbsp;
+
+
+
+
+
+ If your issue is still not resolved or you&#039;re unable to follow these
+ instructions, contact our troubleshooting experts, who will diagnose the
+ specific problem you&#039;re facing. Our certified experts will help you resolve
+ the issue over the phone CALL OUR EXPERTS +1-512-885-1530.
+
+
+
+
+
+
+
+
+
+
+ &amp;nbsp;
+
+
+
+
+ &amp;copy; https://printersclan.com
+
+
+
+ &amp;nbsp;
+
+
+--B_ALT_68bc72fa594393.26946340
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+&lt;!doctype html&gt;=0A&lt;html lang=3D&quot;en-US&quot;&gt;=0A=0A&lt;head&gt;=0A    &lt;meta content=3D&quot;=
+text/html; charset=3Dutf-8&quot; http-equiv=3D&quot;Content-Type&quot; /&gt;=0A    &lt;title&gt;Pri=
+ntersclan&lt;/title&gt;=0A    &lt;meta name=3D&quot;description&quot; content=3D&quot;Reset Passwor=
+d Email Template.&quot;&gt;=0A    &lt;style type=3D&quot;text/css&quot;&gt;=0A        a {=0A       =
+     text-decoration: none;=0A            font-size: 19px;=0A            fo=
+nt-family: rubik, sans-serif;=0A            cursor: auto;=0A        }=0A=0A=
+        .acod-content {=0A            font-family: Rubik, sans-serif;=0A   =
+         font-size: 18px;=0A        }=0A=0A        .errorcodeboxstepbox,=0A=
+        .userinfo,=0A        .printerwontprint_blankstepbox,=0A        .pap=
+erjamstepbox,=0A        .scannerissuestepbox,=0A        .setupprinterboxste=
+pbox {=0A            text-align: start;=0A        }=0A    &lt;/style&gt;=0A&lt;/head=
+&gt;=0A=0A=0A&lt;body marginheight=3D&quot;0&quot; topmargin=3D&quot;0&quot; marginwidth=3D&quot;0&quot; style=
+=3D&quot;margin: 0px; background-color: #f2f3f8;&quot; leftmargin=3D&quot;0&quot;&gt;=0A    &lt;!--10=
+0% body table--&gt;=0A    &lt;table cellspacing=3D&quot;0&quot; border=3D&quot;0&quot; cellpadding=3D=
+&quot;0&quot; width=3D&quot;100%&quot; bgcolor=3D&quot;#f2f3f8&quot;=0A        style=3D&quot;@import url(https=
+://fonts.googleapis.com/css?family=3DRubik:300,400,500,700|Open+Sans:300,40=
+0,600,700); font-family: &#039;Open Sans&#039;, sans-serif;&quot;&gt;=0A        &lt;tr&gt;=0A      =
+      &lt;td&gt;=0A                &lt;table style=3D&quot;background-color: #f2f3f8; max=
+-width:670px;  margin:0 auto;&quot; width=3D&quot;100%&quot; border=3D&quot;0&quot;=0A              =
+      align=3D&quot;center&quot; cellpadding=3D&quot;0&quot; cellspacing=3D&quot;0&quot;&gt;=0A             =
+       &lt;tr&gt;=0A                        &lt;td style=3D&quot;height:10px;&quot;&gt;&amp;nbsp;&lt;/td=
+&gt;=0A                    &lt;/tr&gt;=0A                    &lt;tr&gt;=0A                =
+        &lt;td style=3D&quot;text-align:center;&quot;&gt;=0A                            &lt;a =
+href=3D&quot;https://printersclan.com/&quot; style=3D&quot;=0A                            =
+        text-decoration: none;=0A                                    displa=
+y: flex;=0A                                    justify-content: center;=0A =
+                               &quot;&gt;=0A                                &lt;img sr=
+c=3D&quot;https://printersclan.com/asset/images/printersclaniconlogo.png&quot; alt=3D=
+&quot;&quot; style=3D&quot;=0A                                    width: 72px;=0A         =
+                           position: relative;=0A                          =
+          left: 30px;=0A                                &quot; srcset=3D&quot;&quot;&gt;=0A  =
+                              &lt;div style=3D&quot;=0A                            =
+        left: 44px;=0A                                    position: relativ=
+e;=0A                                    font-size: 31px;=0A               =
+                     text-decoration: none;=0A                             =
+       top: 25px;=0A                                &quot;&gt;=0A                  =
+                  &lt;span class=3D&quot;&quot; style=3D&quot;color: #004db1;font-weight:800;=
+&quot;&gt;PRINTERS&lt;/span&gt;&lt;span=0A                                        style=3D&quot;c=
+olor:yellow;font-weight:800;&quot;&gt;CLAN&lt;/span&gt;=0A                               =
+ &lt;/div&gt;=0A                            &lt;/a&gt;=0A                        &lt;/td&gt;=
+=0A                    &lt;/tr&gt;=0A                    &lt;tr&gt;=0A                 =
+       &lt;td style=3D&quot;height:20px;&quot;&gt;&amp;nbsp;&lt;/td&gt;=0A                    &lt;/tr&gt;=
+=0A                    &lt;tr&gt;=0A                        &lt;td&gt;=0A              =
+              &lt;table width=3D&quot;95%&quot; border=3D&quot;0&quot; align=3D&quot;center&quot; cellpaddin=
+g=3D&quot;0&quot; cellspacing=3D&quot;0&quot;=0A                                style=3D&quot;max-wi=
+dth:670px;background:#fff; border-radius:3px; text-align:center;-webkit-box=
+-shadow:0 6px 18px 0 rgba(0,0,0,.06);-moz-box-shadow:0 6px 18px 0 rgba(0,0,=
+0,.06);box-shadow:0 6px 18px 0 rgba(0,0,0,.06);&quot;&gt;=0A                       =
+         &lt;tr&gt;=0A                                    &lt;td style=3D&quot;height:40p=
+x;&quot;&gt;&amp;nbsp;&lt;/td&gt;=0A                                &lt;/tr&gt;=0A                 =
+               &lt;tr&gt;=0A                                    &lt;td style=3D&quot;heig=
+ht:20px;&quot;&gt;&amp;nbsp;&lt;/td&gt;=0A                                &lt;/tr&gt;=0A=0A        =
+                        &lt;tr class=3D&quot;userinfo&quot;&gt;=0A                         =
+           &lt;td style=3D&quot;padding:10px 35px;&quot;&gt;&lt;strong&gt;Dear &lt;/strong&gt;Julia D. =
+Davis Julia D. Davis                                        &lt;p&gt;We hope this=
+ email finds you well.&lt;/p&gt;=0A                                        &lt;p&gt;We =
+appreciate you reaching out about issues with your=0A                      =
+                      &lt;strong&gt;Canon&lt;/strong&gt; printer=0A                    =
+                        &lt;strong&gt;XDA49843&lt;/strong&gt;=0A                       =
+                 &lt;/p&gt;=0A                                    &lt;/td&gt;=0A       =
+                         &lt;/tr&gt;=0A=0A=0A                                &lt;tr&gt;=
+=0A                                    &lt;td style=3D&quot;padding:0 35px;&quot;&gt;=0A   =
+                                                                           =
+      &lt;div class=3D&quot;col-lg-8 setupprinterboxstepbox&quot; style=3D&quot;text-align: s=
+tart;&quot;&gt;=0A                                                &lt;p class=3D&quot;dez-a=
+ccordion space card p-3&quot; id=3D&quot;accordion&quot;&gt;=0A                              =
+                  &lt;h3 class=3D&quot;my-4&quot;&gt;Setup a New Printer (Windows)&lt;/h3&gt;=0A=
+=0A                                                &lt;strong data-bs-toggle=
+=3D&quot;collapse&quot; href=3D&quot;#collapseOneblank1&quot;=0A                               =
+                     data-parent=3D&quot;#accordionblank1&quot; aria-expanded=3D&quot;true=
+&quot; class=3D&quot;&quot;&gt;=0A                                                    1. If y=
+our printer connects by a wire=0A                                          =
+      &lt;/strong&gt;=0A=0A                                                &lt;p&gt;If =
+your printer connects by a wire,=0A                                        =
+            plug it into your device. It&#039;ll connect automatically, your=0A =
+                                                   PC will download the rig=
+ht drivers, and you can use it right=0A                                    =
+                away.&lt;/p&gt;=0A=0A=0A=0A                                      =
+          &lt;strong&gt;=0A                                                    2.=
+ To connect a wireless printer, download the latest=0A                     =
+                               driver and software package for your printer=
+ model from=0A                                                    the offic=
+ial website and follow these steps:=0A                                     =
+           &lt;/strong&gt;=0A=0A=0A                                              =
+  &lt;p&gt;a) Select the Start button, then select Settings &gt;=0A                 =
+                                   Devices &gt; Printers &amp; scanners &gt; Add a pr=
+inter or=0A                                                    scanner.&lt;/p&gt;=
+=0A                                                &lt;p&gt;b) Wait for it to fin=
+d nearby printers, then choose the=0A                                      =
+              one you want to use, and select Add device. If you want=0A   =
+                                                 to remove the printer late=
+r, just highlight it and=0A                                                =
+    select Remove.&lt;/p&gt;=0A=0A=0A=0A=0A=0A                                   =
+             &lt;h3 class=3D&quot;my-4&quot;&gt;Setup a New Printer (Mac)&lt;/h3&gt;=0A=0A       =
+                                         &lt;strong&gt;=0A                       =
+                             1.Prepare your printer:=0A                    =
+                            &lt;/strong&gt;=0A=0A                                =
+                &lt;p&gt;Use the instructions that came with your printer to=0A  =
+                                                  unpack the printer, insta=
+ll ink or toner, and add paper.=0A                                         =
+           Turn on the printer and make sure it=E2=80=99s not displaying=0A=
+                                                    any errors.&lt;/p&gt;=0A=0A  =
+                                              &lt;strong&gt;=0A                  =
+                                  2. Connect your printer: Follow the instr=
+uctions that=0A                                                    came wit=
+h the printer to connect it to the network.=0A                             =
+                   &lt;/strong&gt;=0A=0A                                         =
+       &lt;p&gt;=0A                                                    If you hav=
+e a Wi-Fi printer, you might need to connect=0A                            =
+                        the printer to your Mac with a USB cable to set up =
+Wi-Fi=0A                                                    printing. After=
+ connecting the printer to your Mac,=0A                                    =
+                install the Mac software that came with the printer and=0A =
+                                                   use the printer=E2=80=
+=99s setup assistant to connect the printer=0A                             =
+                       to your Wi-Fi network. After setting up, you can=0A =
+                                                   disconnect the cable fro=
+m your printer and Mac and the=0A                                          =
+          printer should remain connected to the Wi-Fi network.=0A         =
+                                       &lt;/p&gt;=0A=0A                          =
+                      &lt;strong&gt;=0A                                          =
+          3. Add the printer to your list of available printers:=0A        =
+                                        &lt;/strong&gt;=0A=0A                    =
+                            &lt;p&gt;=0A                                         =
+           Choose Apple menu &gt; System Settings, then click Printers=0A     =
+                                               &amp; Scanners in the sidebar. (=
+You may need to scroll=0A                                                  =
+  down.)&lt;/p&gt;=0A=0A                                                &lt;strong&gt;=
+=0A                                                    4. When your printer=
+ appears in the list, select your=0A                                       =
+             printer, then click Add.=0A                                   =
+             &lt;/strong&gt;=0A=0A=0A                                            =
+    &lt;p&gt; It may take a minute or two for your printer to appear.=0A         =
+                                           If you see a message prompting y=
+ou to download new=0A                                                    so=
+ftware, make sure to download and install it.&lt;/p&gt;=0A=0A=0A                 =
+                               &lt;strong&gt;=0A                                 =
+                   5. If you do not see your printer listed on the left,=0A=
+                                                    click the Add Printer, =
+Scanner or Fax button on the=0A                                            =
+        right.=0A                                                &lt;/strong&gt;=
+=0A=0A                                                &lt;p&gt;=0A               =
+                                     A dialogue appears listing printers on=
+ your local network.&lt;/p&gt;=0A                                            &lt;/di=
+v&gt;=0A                                            &lt;/div&gt;=0A                 =
+                                                           &lt;/td&gt;=0A        =
+                        &lt;/tr&gt;=0A=0A=0A                                &lt;tr&gt;=
+=0A                                    &lt;td style=3D&quot;height:40px;&quot;&gt;&amp;nbsp;&lt;/t=
+d&gt;=0A                                &lt;/tr&gt;=0A=0A                           =
+     &lt;tr&gt;=0A                                    &lt;div=0A                    =
+                    style=3D&quot;background-color: #275078; padding: 20px; text=
+-align: center; border-top: 1px solid #ddd; font-family: Arial, sans-serif;=
+ color: #ffffff;&quot;&gt;=0A                                        &lt;p style=3D&quot;ma=
+rgin: 0; font-size: 18px; line-height: 1.6;&quot;&gt;=0A                           =
+                 If your issue is still not resolved or you&#039;re unable to fo=
+llow these=0A                                            instructions, cont=
+act our troubleshooting experts, who will diagnose the=0A                  =
+                          specific problem you&#039;re facing. Our certified exp=
+erts will help you resolve=0A                                            th=
+e issue over the phone &lt;br&gt; CALL OUR EXPERTS +1-512-885-1530.=0A           =
+                             &lt;/p&gt;=0A                                    =0A=
+                                    &lt;/div&gt;=0A=0A                           =
+     &lt;/tr&gt;=0A=0A                            &lt;/table&gt;=0A                    =
+    &lt;/td&gt;=0A=0A=0A=0A                    &lt;tr&gt;=0A                        &lt;td=
+ style=3D&quot;height:20px;&quot;&gt;&amp;nbsp;&lt;/td&gt;=0A                    &lt;/tr&gt;=0A         =
+           &lt;tr&gt;=0A                        &lt;td style=3D&quot;text-align:center;&quot;&gt;=
+=0A                            &lt;p=0A                                style=
+=3D&quot;font-size:14px; color:rgba(69, 80, 86, 0.7411764705882353); line-height=
+:18px; margin:0 0 0;&quot;&gt;=0A                                &amp;copy; &lt;strong&gt;htt=
+ps://printersclan.com&lt;/strong&gt;&lt;/p&gt;=0A                        &lt;/td&gt;=0A      =
+              &lt;/tr&gt;=0A                    &lt;tr&gt;=0A                        &lt;t=
+d style=3D&quot;height:80px;&quot;&gt;&amp;nbsp;&lt;/td&gt;=0A                    &lt;/tr&gt;=0A        =
+        &lt;/table&gt;=0A            &lt;/td&gt;=0A        &lt;/tr&gt;=0A    &lt;/table&gt;=0A&lt;/bod=
+y&gt;=0A=0A&lt;/html&gt;
+
+--B_ALT_68bc72fa594393.26946340--</pre>
+CRITICAL - 2025-09-06 17:45:36 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 17:46:54 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 17:46:57 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 17:47:00 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-09-06 17:47:04 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2025-09-06 17:47:04 --> 220-p3plzcpnl502534.prod.phx3.secureserver.net ESMTP Exim 4.98.2 #2 Sat, 06 Sep 2025 10:46:57 -0700 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+hello: 250-p3plzcpnl502534.prod.phx3.secureserver.net Hello printersclan.com [72.167.68.198]
+250-SIZE 52428800
+250-LIMITS MAILMAX=10 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250 HELP
+
+from: 250 OK
+
+to: 250 Accepted
+
+data: 354 Enter message, ending with "." on a line by itself
+
+
+quit: 250 OK id=1uux05-0000000AonX-2836
+
+The following SMTP error was encountered: 250 OK id=1uux05-0000000AonX-2836
+
+The following SMTP error was encountered: 
+ERROR - 2025-09-06 17:47:04 --> 220-p3plzcpnl502534.prod.phx3.secureserver.net ESMTP Exim 4.98.2 #2 Sat, 06 Sep 2025 10:46:57 -0700 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+<br><pre>hello: 250-p3plzcpnl502534.prod.phx3.secureserver.net Hello printersclan.com [72.167.68.198]
+250-SIZE 52428800
+250-LIMITS MAILMAX=10 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250 HELP
+</pre><pre>from: 250 OK
+</pre><pre>to: 250 Accepted
+</pre><pre>data: 354 Enter message, ending with "." on a line by itself
+</pre><br><pre>quit: 250 OK id=1uux05-0000000AonX-2836
+</pre>The following SMTP error was encountered: 250 OK id=1uux05-0000000AonX-2836
+<br>The following SMTP error was encountered: <br>Unable to send email using SMTP. Your server might not be configured to send mail using this method.<br><pre>Date: Sat, 6 Sep 2025 17:46:57 +0000
+From: &quot;Printersclan Team&quot; &lt;noreply@printersclan.com&gt;
+Return-Path: &lt;noreply@printersclan.com&gt;
+To: jerallynt@yahoo.com
+Subject: =?UTF-8?Q?Support=20Confirmation?=
+Reply-To: &lt;noreply@printersclan.com&gt;
+User-Agent: CodeIgniter
+X-Sender: noreply@printersclan.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;68bc73916bfad8.91031191@printersclan.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_68bc73916bfc32.24285465&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_68bc73916bfc32.24285465
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+&amp;nbsp;
+
+
+
+
+
+
+ PRINTERSCLAN
+
+
+
+
+
+ &amp;nbsp;
+
+
+
+
+
+ &amp;nbsp;
+
+
+ &amp;nbsp;
+
+
+
+ Dear Jeri Thormaehlen We hope this email finds you well.
+ We appreciate you reaching out about issues with your
+ Canon printer
+ canon/TS3722
+
+
+
+
+
+
+
+
+ Setup a New Printer (Windows)
+
+
+ 1. If your printer connects by a wire
+
+
+ If your printer connects by a wire,
+ plug it into your device. It&#039;ll connect automatically, your
+ PC will download the right drivers, and you can use it right
+ away.
+
+
+ 2. To connect a wireless printer, download the latest
+ driver and software package for your printer model from
+ the official website and follow these steps:
+
+
+ a) Select the Start button, then select Settings &gt;
+ Devices &gt; Printers &amp; scanners &gt; Add a printer or
+ scanner.
+ b) Wait for it to find nearby printers, then choose the
+ one you want to use, and select Add device. If you want
+ to remove the printer later, just highlight it and
+ select Remove.
+
+ Setup a New Printer (Mac)
+
+
+ 1.Prepare your printer:
+
+
+ Use the instructions that came with your printer to
+ unpack the printer, install ink or toner, and add paper.
+ Turn on the printer and make sure it’s not displaying
+ any errors.
+
+
+ 2. Connect your printer: Follow the instructions that
+ came with the printer to connect it to the network.
+
+
+
+ If you have a Wi-Fi printer, you might need to connect
+ the printer to your Mac with a USB cable to set up Wi-Fi
+ printing. After connecting the printer to your Mac,
+ install the Mac software that came with the printer and
+ use the printer’s setup assistant to connect the printer
+ to your Wi-Fi network. After setting up, you can
+ disconnect the cable from your printer and Mac and the
+ printer should remain connected to the Wi-Fi network.
+
+
+
+ 3. Add the printer to your list of available printers:
+
+
+
+ Choose Apple menu &gt; System Settings, then click Printers
+ &amp; Scanners in the sidebar. (You may need to scroll
+ down.)
+
+
+ 4. When your printer appears in the list, select your
+ printer, then click Add.
+
+
+ It may take a minute or two for your printer to appear.
+ If you see a message prompting you to download new
+ software, make sure to download and install it.
+
+
+ 5. If you do not see your printer listed on the left,
+ click the Add Printer, Scanner or Fax button on the
+ right.
+
+
+
+ A dialogue appears listing printers on your local network.
+
+
+
+
+
+
+ &amp;nbsp;
+
+
+
+
+
+ If your issue is still not resolved or you&#039;re unable to follow these
+ instructions, contact our troubleshooting experts, who will diagnose the
+ specific problem you&#039;re facing. Our certified experts will help you resolve
+ the issue over the phone CALL OUR EXPERTS +1-512-885-1530.
+
+
+
+
+
+
+
+
+
+
+ &amp;nbsp;
+
+
+
+
+ &amp;copy; https://printersclan.com
+
+
+
+ &amp;nbsp;
+
+
+--B_ALT_68bc73916bfc32.24285465
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+&lt;!doctype html&gt;=0A&lt;html lang=3D&quot;en-US&quot;&gt;=0A=0A&lt;head&gt;=0A    &lt;meta content=3D&quot;=
+text/html; charset=3Dutf-8&quot; http-equiv=3D&quot;Content-Type&quot; /&gt;=0A    &lt;title&gt;Pri=
+ntersclan&lt;/title&gt;=0A    &lt;meta name=3D&quot;description&quot; content=3D&quot;Reset Passwor=
+d Email Template.&quot;&gt;=0A    &lt;style type=3D&quot;text/css&quot;&gt;=0A        a {=0A       =
+     text-decoration: none;=0A            font-size: 19px;=0A            fo=
+nt-family: rubik, sans-serif;=0A            cursor: auto;=0A        }=0A=0A=
+        .acod-content {=0A            font-family: Rubik, sans-serif;=0A   =
+         font-size: 18px;=0A        }=0A=0A        .errorcodeboxstepbox,=0A=
+        .userinfo,=0A        .printerwontprint_blankstepbox,=0A        .pap=
+erjamstepbox,=0A        .scannerissuestepbox,=0A        .setupprinterboxste=
+pbox {=0A            text-align: start;=0A        }=0A    &lt;/style&gt;=0A&lt;/head=
+&gt;=0A=0A=0A&lt;body marginheight=3D&quot;0&quot; topmargin=3D&quot;0&quot; marginwidth=3D&quot;0&quot; style=
+=3D&quot;margin: 0px; background-color: #f2f3f8;&quot; leftmargin=3D&quot;0&quot;&gt;=0A    &lt;!--10=
+0% body table--&gt;=0A    &lt;table cellspacing=3D&quot;0&quot; border=3D&quot;0&quot; cellpadding=3D=
+&quot;0&quot; width=3D&quot;100%&quot; bgcolor=3D&quot;#f2f3f8&quot;=0A        style=3D&quot;@import url(https=
+://fonts.googleapis.com/css?family=3DRubik:300,400,500,700|Open+Sans:300,40=
+0,600,700); font-family: &#039;Open Sans&#039;, sans-serif;&quot;&gt;=0A        &lt;tr&gt;=0A      =
+      &lt;td&gt;=0A                &lt;table style=3D&quot;background-color: #f2f3f8; max=
+-width:670px;  margin:0 auto;&quot; width=3D&quot;100%&quot; border=3D&quot;0&quot;=0A              =
+      align=3D&quot;center&quot; cellpadding=3D&quot;0&quot; cellspacing=3D&quot;0&quot;&gt;=0A             =
+       &lt;tr&gt;=0A                        &lt;td style=3D&quot;height:10px;&quot;&gt;&amp;nbsp;&lt;/td=
+&gt;=0A                    &lt;/tr&gt;=0A                    &lt;tr&gt;=0A                =
+        &lt;td style=3D&quot;text-align:center;&quot;&gt;=0A                            &lt;a =
+href=3D&quot;https://printersclan.com/&quot; style=3D&quot;=0A                            =
+        text-decoration: none;=0A                                    displa=
+y: flex;=0A                                    justify-content: center;=0A =
+                               &quot;&gt;=0A                                &lt;img sr=
+c=3D&quot;https://printersclan.com/asset/images/printersclaniconlogo.png&quot; alt=3D=
+&quot;&quot; style=3D&quot;=0A                                    width: 72px;=0A         =
+                           position: relative;=0A                          =
+          left: 30px;=0A                                &quot; srcset=3D&quot;&quot;&gt;=0A  =
+                              &lt;div style=3D&quot;=0A                            =
+        left: 44px;=0A                                    position: relativ=
+e;=0A                                    font-size: 31px;=0A               =
+                     text-decoration: none;=0A                             =
+       top: 25px;=0A                                &quot;&gt;=0A                  =
+                  &lt;span class=3D&quot;&quot; style=3D&quot;color: #004db1;font-weight:800;=
+&quot;&gt;PRINTERS&lt;/span&gt;&lt;span=0A                                        style=3D&quot;c=
+olor:yellow;font-weight:800;&quot;&gt;CLAN&lt;/span&gt;=0A                               =
+ &lt;/div&gt;=0A                            &lt;/a&gt;=0A                        &lt;/td&gt;=
+=0A                    &lt;/tr&gt;=0A                    &lt;tr&gt;=0A                 =
+       &lt;td style=3D&quot;height:20px;&quot;&gt;&amp;nbsp;&lt;/td&gt;=0A                    &lt;/tr&gt;=
+=0A                    &lt;tr&gt;=0A                        &lt;td&gt;=0A              =
+              &lt;table width=3D&quot;95%&quot; border=3D&quot;0&quot; align=3D&quot;center&quot; cellpaddin=
+g=3D&quot;0&quot; cellspacing=3D&quot;0&quot;=0A                                style=3D&quot;max-wi=
+dth:670px;background:#fff; border-radius:3px; text-align:center;-webkit-box=
+-shadow:0 6px 18px 0 rgba(0,0,0,.06);-moz-box-shadow:0 6px 18px 0 rgba(0,0,=
+0,.06);box-shadow:0 6px 18px 0 rgba(0,0,0,.06);&quot;&gt;=0A                       =
+         &lt;tr&gt;=0A                                    &lt;td style=3D&quot;height:40p=
+x;&quot;&gt;&amp;nbsp;&lt;/td&gt;=0A                                &lt;/tr&gt;=0A                 =
+               &lt;tr&gt;=0A                                    &lt;td style=3D&quot;heig=
+ht:20px;&quot;&gt;&amp;nbsp;&lt;/td&gt;=0A                                &lt;/tr&gt;=0A=0A        =
+                        &lt;tr class=3D&quot;userinfo&quot;&gt;=0A                         =
+           &lt;td style=3D&quot;padding:10px 35px;&quot;&gt;&lt;strong&gt;Dear &lt;/strong&gt;Jeri Thor=
+maehlen                                        &lt;p&gt;We hope this email finds =
+you well.&lt;/p&gt;=0A                                        &lt;p&gt;We appreciate yo=
+u reaching out about issues with your=0A                                   =
+         &lt;strong&gt;Canon&lt;/strong&gt; printer=0A                                 =
+           &lt;strong&gt;canon/TS3722&lt;/strong&gt;=0A                                =
+        &lt;/p&gt;=0A                                    &lt;/td&gt;=0A                =
+                &lt;/tr&gt;=0A=0A=0A                                &lt;tr&gt;=0A      =
+                              &lt;td style=3D&quot;padding:0 35px;&quot;&gt;=0A            =
+                                                                        &lt;di=
+v class=3D&quot;col-lg-8 setupprinterboxstepbox&quot; style=3D&quot;text-align: start;&quot;&gt;=
+=0A                                                &lt;p class=3D&quot;dez-accordio=
+n space card p-3&quot; id=3D&quot;accordion&quot;&gt;=0A                                     =
+           &lt;h3 class=3D&quot;my-4&quot;&gt;Setup a New Printer (Windows)&lt;/h3&gt;=0A=0A     =
+                                           &lt;strong data-bs-toggle=3D&quot;collap=
+se&quot; href=3D&quot;#collapseOneblank1&quot;=0A                                         =
+           data-parent=3D&quot;#accordionblank1&quot; aria-expanded=3D&quot;true&quot; class=3D=
+&quot;&quot;&gt;=0A                                                    1. If your printe=
+r connects by a wire=0A                                                &lt;/st=
+rong&gt;=0A=0A                                                &lt;p&gt;If your print=
+er connects by a wire,=0A                                                  =
+  plug it into your device. It&#039;ll connect automatically, your=0A           =
+                                         PC will download the right drivers=
+, and you can use it right=0A                                              =
+      away.&lt;/p&gt;=0A=0A=0A=0A                                                =
+&lt;strong&gt;=0A                                                    2. To connec=
+t a wireless printer, download the latest=0A                               =
+                     driver and software package for your printer model fro=
+m=0A                                                    the official websit=
+e and follow these steps:=0A                                               =
+ &lt;/strong&gt;=0A=0A=0A                                                &lt;p&gt;a) Se=
+lect the Start button, then select Settings &gt;=0A                           =
+                         Devices &gt; Printers &amp; scanners &gt; Add a printer or=
+=0A                                                    scanner.&lt;/p&gt;=0A     =
+                                           &lt;p&gt;b) Wait for it to find nearby=
+ printers, then choose the=0A                                              =
+      one you want to use, and select Add device. If you want=0A           =
+                                         to remove the printer later, just =
+highlight it and=0A                                                    sele=
+ct Remove.&lt;/p&gt;=0A=0A=0A=0A=0A=0A                                           =
+     &lt;h3 class=3D&quot;my-4&quot;&gt;Setup a New Printer (Mac)&lt;/h3&gt;=0A=0A               =
+                                 &lt;strong&gt;=0A                               =
+                     1.Prepare your printer:=0A                            =
+                    &lt;/strong&gt;=0A=0A                                        =
+        &lt;p&gt;Use the instructions that came with your printer to=0A          =
+                                          unpack the printer, install ink o=
+r toner, and add paper.=0A                                                 =
+   Turn on the printer and make sure it=E2=80=99s not displaying=0A        =
+                                            any errors.&lt;/p&gt;=0A=0A          =
+                                      &lt;strong&gt;=0A                          =
+                          2. Connect your printer: Follow the instructions =
+that=0A                                                    came with the pr=
+inter to connect it to the network.=0A                                     =
+           &lt;/strong&gt;=0A=0A                                                &lt;=
+p&gt;=0A                                                    If you have a Wi-F=
+i printer, you might need to connect=0A                                    =
+                the printer to your Mac with a USB cable to set up Wi-Fi=0A=
+                                                    printing. After connect=
+ing the printer to your Mac,=0A                                            =
+        install the Mac software that came with the printer and=0A         =
+                                           use the printer=E2=80=99s setup =
+assistant to connect the printer=0A                                        =
+            to your Wi-Fi network. After setting up, you can=0A            =
+                                        disconnect the cable from your prin=
+ter and Mac and the=0A                                                    p=
+rinter should remain connected to the Wi-Fi network.=0A                    =
+                            &lt;/p&gt;=0A=0A                                     =
+           &lt;strong&gt;=0A                                                    3=
+. Add the printer to your list of available printers:=0A                   =
+                             &lt;/strong&gt;=0A=0A                               =
+                 &lt;p&gt;=0A                                                    =
+Choose Apple menu &gt; System Settings, then click Printers=0A                =
+                                    &amp; Scanners in the sidebar. (You may nee=
+d to scroll=0A                                                    down.)&lt;/p=
+&gt;=0A=0A                                                &lt;strong&gt;=0A         =
+                                           4. When your printer appears in =
+the list, select your=0A                                                   =
+ printer, then click Add.=0A                                               =
+ &lt;/strong&gt;=0A=0A=0A                                                &lt;p&gt; It m=
+ay take a minute or two for your printer to appear.=0A                     =
+                               If you see a message prompting you to downlo=
+ad new=0A                                                    software, make=
+ sure to download and install it.&lt;/p&gt;=0A=0A=0A                             =
+                   &lt;strong&gt;=0A                                             =
+       5. If you do not see your printer listed on the left,=0A            =
+                                        click the Add Printer, Scanner or F=
+ax button on the=0A                                                    righ=
+t.=0A                                                &lt;/strong&gt;=0A=0A       =
+                                         &lt;p&gt;=0A                            =
+                        A dialogue appears listing printers on your local n=
+etwork.&lt;/p&gt;=0A                                            &lt;/div&gt;=0A        =
+                                    &lt;/div&gt;=0A                              =
+                                              &lt;/td&gt;=0A                     =
+           &lt;/tr&gt;=0A=0A=0A                                &lt;tr&gt;=0A           =
+                         &lt;td style=3D&quot;height:40px;&quot;&gt;&amp;nbsp;&lt;/td&gt;=0A         =
+                       &lt;/tr&gt;=0A=0A                                &lt;tr&gt;=0A  =
+                                  &lt;div=0A                                  =
+      style=3D&quot;background-color: #275078; padding: 20px; text-align: center=
+; border-top: 1px solid #ddd; font-family: Arial, sans-serif; color: #fffff=
+f;&quot;&gt;=0A                                        &lt;p style=3D&quot;margin: 0; font-=
+size: 18px; line-height: 1.6;&quot;&gt;=0A                                         =
+   If your issue is still not resolved or you&#039;re unable to follow these=0A =
+                                           instructions, contact our troubl=
+eshooting experts, who will diagnose the=0A                                =
+            specific problem you&#039;re facing. Our certified experts will help=
+ you resolve=0A                                            the issue over t=
+he phone &lt;br&gt; CALL OUR EXPERTS +1-512-885-1530.=0A                         =
+               &lt;/p&gt;=0A                                    =0A              =
+                      &lt;/div&gt;=0A=0A                                &lt;/tr&gt;=0A=
+=0A                            &lt;/table&gt;=0A                        &lt;/td&gt;=0A=
+=0A=0A=0A                    &lt;tr&gt;=0A                        &lt;td style=3D&quot;he=
+ight:20px;&quot;&gt;&amp;nbsp;&lt;/td&gt;=0A                    &lt;/tr&gt;=0A                    &lt;=
+tr&gt;=0A                        &lt;td style=3D&quot;text-align:center;&quot;&gt;=0A         =
+                   &lt;p=0A                                style=3D&quot;font-size:=
+14px; color:rgba(69, 80, 86, 0.7411764705882353); line-height:18px; margin:=
+0 0 0;&quot;&gt;=0A                                &amp;copy; &lt;strong&gt;https://printersc=
+lan.com&lt;/strong&gt;&lt;/p&gt;=0A                        &lt;/td&gt;=0A                    =
+&lt;/tr&gt;=0A                    &lt;tr&gt;=0A                        &lt;td style=3D&quot;hei=
+ght:80px;&quot;&gt;&amp;nbsp;&lt;/td&gt;=0A                    &lt;/tr&gt;=0A                &lt;/tabl=
+e&gt;=0A            &lt;/td&gt;=0A        &lt;/tr&gt;=0A    &lt;/table&gt;=0A&lt;/body&gt;=0A=0A&lt;/html=
+&gt;
+
+--B_ALT_68bc73916bfc32.24285465--</pre>
+CRITICAL - 2025-09-06 17:47:26 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 17:47:52 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 17:47:58 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 17:48:04 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 17:49:22 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 17:51:15 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 17:51:50 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 17:51:59 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 17:52:39 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-09-06 17:52:46 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2025-09-06 17:52:46 --> 220-p3plzcpnl502534.prod.phx3.secureserver.net ESMTP Exim 4.98.2 #2 Sat, 06 Sep 2025 10:52:39 -0700 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+hello: 250-p3plzcpnl502534.prod.phx3.secureserver.net Hello printersclan.com [72.167.68.198]
+250-SIZE 52428800
+250-LIMITS MAILMAX=10 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250 HELP
+
+from: 250 OK
+
+to: 250 Accepted
+
+data: 354 Enter message, ending with "." on a line by itself
+
+
+quit: 250 OK id=1uux5b-0000000AqCu-3lRD
+
+The following SMTP error was encountered: 250 OK id=1uux5b-0000000AqCu-3lRD
+
+The following SMTP error was encountered: 
+ERROR - 2025-09-06 17:52:46 --> 220-p3plzcpnl502534.prod.phx3.secureserver.net ESMTP Exim 4.98.2 #2 Sat, 06 Sep 2025 10:52:39 -0700 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+<br><pre>hello: 250-p3plzcpnl502534.prod.phx3.secureserver.net Hello printersclan.com [72.167.68.198]
+250-SIZE 52428800
+250-LIMITS MAILMAX=10 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250 HELP
+</pre><pre>from: 250 OK
+</pre><pre>to: 250 Accepted
+</pre><pre>data: 354 Enter message, ending with "." on a line by itself
+</pre><br><pre>quit: 250 OK id=1uux5b-0000000AqCu-3lRD
+</pre>The following SMTP error was encountered: 250 OK id=1uux5b-0000000AqCu-3lRD
+<br>The following SMTP error was encountered: <br>Unable to send email using SMTP. Your server might not be configured to send mail using this method.<br><pre>Date: Sat, 6 Sep 2025 17:52:39 +0000
+From: &quot;Printersclan Team&quot; &lt;noreply@printersclan.com&gt;
+Return-Path: &lt;noreply@printersclan.com&gt;
+To: caolibveira071955@gmail.com
+Subject: =?UTF-8?Q?Support=20Confirmation?=
+Reply-To: &lt;noreply@printersclan.com&gt;
+User-Agent: CodeIgniter
+X-Sender: noreply@printersclan.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;68bc74e7c42ac6.20955945@printersclan.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_68bc74e7c42ca8.79714475&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_68bc74e7c42ca8.79714475
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+&amp;nbsp;
+
+
+
+
+
+
+ PRINTERSCLAN
+
+
+
+
+
+ &amp;nbsp;
+
+
+
+
+
+ &amp;nbsp;
+
+
+ &amp;nbsp;
+
+
+
+ Dear cesar oliveira We hope this email finds you well.
+ We appreciate you reaching out about issues with your
+ Canon printer
+ cannon pixmars3722
+
+
+
+
+
+
+
+
+ Error code or Error message
+
+
+
+
+ 1. Check Power and Connections
+
+
+
+
+ Make sure the printer is turned on
+ and properly connected to both the power outlet and your
+ computer.
+
+
+
+
+
+
+
+ 2. Restart the Printer
+
+
+
+
+
+ Press and hold down the power button on your printer till
+ all the lights turn off &amp; the printer is shut down.
+
+ Wait for 10-15 seconds and press the power button again
+ to restart the Printer.
+
+
+
+
+
+
+
+
+
+ 3. Hard Reset the Printer
+
+
+
+
+
+ a) Shut down the printer &amp; disconnect the printer from
+ the power source by removing the power cable.
+ b) Wait for 30 seconds. Reconnect it to the power source
+ and turn on the printer.
+
+
+
+
+
+
+
+
+ 4. Connect Wirelessly
+
+
+
+
+ a) Press and hold down the wireless connection button on
+ your printer till the wifi lights start flashing.
+ b) You will see the network settings on your printer
+ screen.
+ c) Choose the name of your network and enter the network
+ password.
+
+
+
+
+
+
+
+
+ 5. Reinstall the Cartridge
+
+
+
+
+ a) Turn off your printer.
+
+ b) Remove the cartridges from the printer.
+ c) Shake them well and reinstall them and turn on the
+ printer again.
+
+
+
+
+
+
+
+
+ 6. Paper Jam
+
+
+
+
+
+ Remove the printer tray and check for any piece of paper
+ stuck inside.
+ Make sure you are entering the correct size of paper in
+ the tray and it’s inserted in the right manner.
+ If your print job isn&#039;t coming out, check the print queue
+ on your computer to ensure the job is not stuck or
+ paused.
+
+
+
+
+
+
+
+
+ 7. Paper and Ink/Toner
+
+
+
+
+
+ Ensure that there is enough paper in the tray and that
+ the ink or toner cartridges are not empty or dried out.
+
+
+
+
+
+
+
+
+
+ 8. Default Printer
+
+
+
+
+
+ Make sure your printer is set as the default printer in
+ your computer&#039;s settings.
+
+
+
+
+
+
+
+
+
+
+ &amp;nbsp;
+
+
+
+
+
+ If your issue is still not resolved or you&#039;re unable to follow these
+ instructions, contact our troubleshooting experts, who will diagnose the
+ specific problem you&#039;re facing. Our certified experts will help you resolve
+ the issue over the phone CALL OUR EXPERTS +1-512-885-1530.
+
+
+
+
+
+
+
+
+
+
+ &amp;nbsp;
+
+
+
+
+ &amp;copy; https://printersclan.com
+
+
+
+ &amp;nbsp;
+
+
+--B_ALT_68bc74e7c42ca8.79714475
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+&lt;!doctype html&gt;=0A&lt;html lang=3D&quot;en-US&quot;&gt;=0A=0A&lt;head&gt;=0A    &lt;meta content=3D&quot;=
+text/html; charset=3Dutf-8&quot; http-equiv=3D&quot;Content-Type&quot; /&gt;=0A    &lt;title&gt;Pri=
+ntersclan&lt;/title&gt;=0A    &lt;meta name=3D&quot;description&quot; content=3D&quot;Reset Passwor=
+d Email Template.&quot;&gt;=0A    &lt;style type=3D&quot;text/css&quot;&gt;=0A        a {=0A       =
+     text-decoration: none;=0A            font-size: 19px;=0A            fo=
+nt-family: rubik, sans-serif;=0A            cursor: auto;=0A        }=0A=0A=
+        .acod-content {=0A            font-family: Rubik, sans-serif;=0A   =
+         font-size: 18px;=0A        }=0A=0A        .errorcodeboxstepbox,=0A=
+        .userinfo,=0A        .printerwontprint_blankstepbox,=0A        .pap=
+erjamstepbox,=0A        .scannerissuestepbox,=0A        .setupprinterboxste=
+pbox {=0A            text-align: start;=0A        }=0A    &lt;/style&gt;=0A&lt;/head=
+&gt;=0A=0A=0A&lt;body marginheight=3D&quot;0&quot; topmargin=3D&quot;0&quot; marginwidth=3D&quot;0&quot; style=
+=3D&quot;margin: 0px; background-color: #f2f3f8;&quot; leftmargin=3D&quot;0&quot;&gt;=0A    &lt;!--10=
+0% body table--&gt;=0A    &lt;table cellspacing=3D&quot;0&quot; border=3D&quot;0&quot; cellpadding=3D=
+&quot;0&quot; width=3D&quot;100%&quot; bgcolor=3D&quot;#f2f3f8&quot;=0A        style=3D&quot;@import url(https=
+://fonts.googleapis.com/css?family=3DRubik:300,400,500,700|Open+Sans:300,40=
+0,600,700); font-family: &#039;Open Sans&#039;, sans-serif;&quot;&gt;=0A        &lt;tr&gt;=0A      =
+      &lt;td&gt;=0A                &lt;table style=3D&quot;background-color: #f2f3f8; max=
+-width:670px;  margin:0 auto;&quot; width=3D&quot;100%&quot; border=3D&quot;0&quot;=0A              =
+      align=3D&quot;center&quot; cellpadding=3D&quot;0&quot; cellspacing=3D&quot;0&quot;&gt;=0A             =
+       &lt;tr&gt;=0A                        &lt;td style=3D&quot;height:10px;&quot;&gt;&amp;nbsp;&lt;/td=
+&gt;=0A                    &lt;/tr&gt;=0A                    &lt;tr&gt;=0A                =
+        &lt;td style=3D&quot;text-align:center;&quot;&gt;=0A                            &lt;a =
+href=3D&quot;https://printersclan.com/&quot; style=3D&quot;=0A                            =
+        text-decoration: none;=0A                                    displa=
+y: flex;=0A                                    justify-content: center;=0A =
+                               &quot;&gt;=0A                                &lt;img sr=
+c=3D&quot;https://printersclan.com/asset/images/printersclaniconlogo.png&quot; alt=3D=
+&quot;&quot; style=3D&quot;=0A                                    width: 72px;=0A         =
+                           position: relative;=0A                          =
+          left: 30px;=0A                                &quot; srcset=3D&quot;&quot;&gt;=0A  =
+                              &lt;div style=3D&quot;=0A                            =
+        left: 44px;=0A                                    position: relativ=
+e;=0A                                    font-size: 31px;=0A               =
+                     text-decoration: none;=0A                             =
+       top: 25px;=0A                                &quot;&gt;=0A                  =
+                  &lt;span class=3D&quot;&quot; style=3D&quot;color: #004db1;font-weight:800;=
+&quot;&gt;PRINTERS&lt;/span&gt;&lt;span=0A                                        style=3D&quot;c=
+olor:yellow;font-weight:800;&quot;&gt;CLAN&lt;/span&gt;=0A                               =
+ &lt;/div&gt;=0A                            &lt;/a&gt;=0A                        &lt;/td&gt;=
+=0A                    &lt;/tr&gt;=0A                    &lt;tr&gt;=0A                 =
+       &lt;td style=3D&quot;height:20px;&quot;&gt;&amp;nbsp;&lt;/td&gt;=0A                    &lt;/tr&gt;=
+=0A                    &lt;tr&gt;=0A                        &lt;td&gt;=0A              =
+              &lt;table width=3D&quot;95%&quot; border=3D&quot;0&quot; align=3D&quot;center&quot; cellpaddin=
+g=3D&quot;0&quot; cellspacing=3D&quot;0&quot;=0A                                style=3D&quot;max-wi=
+dth:670px;background:#fff; border-radius:3px; text-align:center;-webkit-box=
+-shadow:0 6px 18px 0 rgba(0,0,0,.06);-moz-box-shadow:0 6px 18px 0 rgba(0,0,=
+0,.06);box-shadow:0 6px 18px 0 rgba(0,0,0,.06);&quot;&gt;=0A                       =
+         &lt;tr&gt;=0A                                    &lt;td style=3D&quot;height:40p=
+x;&quot;&gt;&amp;nbsp;&lt;/td&gt;=0A                                &lt;/tr&gt;=0A                 =
+               &lt;tr&gt;=0A                                    &lt;td style=3D&quot;heig=
+ht:20px;&quot;&gt;&amp;nbsp;&lt;/td&gt;=0A                                &lt;/tr&gt;=0A=0A        =
+                        &lt;tr class=3D&quot;userinfo&quot;&gt;=0A                         =
+           &lt;td style=3D&quot;padding:10px 35px;&quot;&gt;&lt;strong&gt;Dear &lt;/strong&gt;cesar oli=
+veira                                        &lt;p&gt;We hope this email finds yo=
+u well.&lt;/p&gt;=0A                                        &lt;p&gt;We appreciate you =
+reaching out about issues with your=0A                                     =
+       &lt;strong&gt;Canon&lt;/strong&gt; printer=0A                                   =
+         &lt;strong&gt;cannon pixmars3722&lt;/strong&gt;=0A                            =
+            &lt;/p&gt;=0A                                    &lt;/td&gt;=0A            =
+                    &lt;/tr&gt;=0A=0A=0A                                &lt;tr&gt;=0A  =
+                                  &lt;td style=3D&quot;padding:0 35px;&quot;&gt;=0A        =
+                                                                           =
+ &lt;div class=3D&quot;col-lg-8 errorcodeboxstepbox&quot; style=3D&quot;text-align: start;&quot;&gt;=
+=0A                                                &lt;div class=3D&quot;dez-accord=
+ion space card p-3&quot; id=3D&quot;accordion1&quot;&gt;=0A                                  =
+                  &lt;h3 class=3D&quot;my-4&quot;&gt;Error code or Error message&lt;/h3&gt;=0A   =
+                                                 &lt;div class=3D&quot;panel&quot;&gt;=0A  =
+                                                      &lt;div class=3D&quot;acod-he=
+ad&quot;&gt;=0A                                                            &lt;h6 clas=
+s=3D&quot;acod-title&quot;&gt;=0A                                                       =
+         &lt;a data-bs-toggle=3D&quot;collapse&quot; href=3D&quot;#collapseOne1&quot;=0A          =
+                                                          data-parent=3D&quot;#a=
+ccordion1&quot; aria-expanded=3D&quot;true&quot; class=3D&quot;&quot;&gt;=0A                           =
+                                         1. Check Power and Connections=0A =
+                                                               &lt;/a&gt;=0A     =
+                                                       &lt;/h6&gt;=0A            =
+                                            &lt;/div&gt;=0A                      =
+                                  &lt;div id=3D&quot;collapseOne1&quot; class=3D&quot;acod-bo=
+dy collapse show&quot;=0A                                                       =
+     data-parent=3D&quot;#accordion1&quot; style=3D&quot;&quot;&gt;=0A                            =
+                                &lt;div class=3D&quot;acod-content&quot;&gt; Make sure the =
+printer is turned on=0A                                                    =
+            and properly connected to both the power outlet and your=0A    =
+                                                            computer.&lt;/div&gt;=
+=0A                                                        &lt;/div&gt;=0A       =
+                                             &lt;/div&gt;=0A=0A=0A               =
+                                     &lt;div class=3D&quot;panel&quot;&gt;=0A              =
+                                          &lt;div class=3D&quot;acod-head&quot;&gt;=0A     =
+                                                       &lt;h6 class=3D&quot;acod-ti=
+tle&quot;&gt;=0A                                                                &lt;a =
+data-bs-toggle=3D&quot;collapse&quot; href=3D&quot;#collapseTwo1&quot;=0A                      =
+                                              class=3D&quot;collapsed&quot; data-pare=
+nt=3D&quot;#accordion1&quot;&gt;=0A                                                     =
+               2. Restart the Printer=0A                                   =
+                             &lt;/a&gt;=0A                                       =
+                     &lt;/h6&gt;=0A                                              =
+          &lt;/div&gt;=0A                                                        =
+&lt;div id=3D&quot;collapseTwo1&quot; class=3D&quot;acod-body collapse&quot;=0A                   =
+                                         data-parent=3D&quot;#accordion1&quot;&gt;=0A   =
+                                                         &lt;div class=3D&quot;acod=
+-content&quot;&gt;=0A                                                              =
+  &lt;p&gt;Press and hold down the power button on your printer till=0A          =
+                                                          all the lights tu=
+rn off &amp; the printer is shut down.&lt;/p&gt;=0A                                  =
+                              &lt;p&gt;=0A                                       =
+                             Wait for 10-15 seconds and press the power but=
+ton again=0A                                                               =
+     to restart the Printer.=0A                                            =
+                    &lt;/p&gt;=0A                                                =
+            &lt;/div&gt;=0A                                                      =
+  &lt;/div&gt;=0A                                                    &lt;/div&gt;=0A=0A=
+=0A                                                    &lt;div class=3D&quot;panel&quot;=
+&gt;=0A                                                        &lt;div class=3D&quot;a=
+cod-head&quot;&gt;=0A                                                            &lt;h=
+6 class=3D&quot;acod-title&quot;&gt;=0A                                                 =
+               &lt;a data-bs-toggle=3D&quot;collapse&quot; href=3D&quot;#collapseThree1&quot;=0A  =
+                                                                  class=3D&quot;=
+collapsed&quot; data-parent=3D&quot;#accordion1&quot;&gt;=0A                                 =
+                                   3. Hard Reset the Printer=0A            =
+                                                    &lt;/a&gt;=0A                =
+                                            &lt;/h6&gt;=0A                       =
+                                 &lt;/div&gt;=0A                                 =
+                       &lt;div id=3D&quot;collapseThree1&quot; class=3D&quot;acod-body collap=
+se&quot;=0A                                                            data-pare=
+nt=3D&quot;#accordion1&quot;&gt;=0A                                                     =
+       &lt;div class=3D&quot;acod-content&quot;&gt;=0A                                     =
+                           &lt;p&gt;a) Shut down the printer &amp; disconnect the pri=
+nter from=0A                                                               =
+     the power source by removing the power cable.&lt;/p&gt;=0A                  =
+                                              &lt;p&gt;b) Wait for 30 seconds. Re=
+connect it to the power source=0A                                          =
+                          and turn on the printer.&lt;/p&gt;=0A                  =
+                                          &lt;/div&gt;=0A                        =
+                                &lt;/div&gt;=0A                                  =
+                  &lt;/div&gt;=0A=0A=0A                                          =
+          &lt;div class=3D&quot;panel&quot;&gt;=0A                                         =
+               &lt;div class=3D&quot;acod-head&quot;&gt;=0A                                =
+                            &lt;h6 class=3D&quot;acod-title&quot;&gt;=0A                   =
+                                             &lt;a data-bs-toggle=3D&quot;collapse&quot;=
+ href=3D&quot;#collapseFor1&quot;=0A                                                 =
+                   class=3D&quot;collapsed&quot; data-parent=3D&quot;#accordion1&quot;&gt;=0A     =
+                                                               4. Connect W=
+irelessly &lt;/a&gt;=0A                                                          =
+  &lt;/h6&gt;=0A                                                        &lt;/div&gt;=0A=
+                                                        &lt;div id=3D&quot;collapse=
+For1&quot; class=3D&quot;acod-body collapse&quot;=0A                                      =
+                      data-parent=3D&quot;#accordion1&quot;&gt;=0A                      =
+                                      &lt;div class=3D&quot;acod-content&quot;&gt;=0A      =
+                                                          &lt;p&gt;a) Press and h=
+old down the wireless connection button on=0A                              =
+                                      your printer till the wifi lights sta=
+rt flashing.&lt;/p&gt;=0A                                                        =
+        &lt;p&gt;b) You will see the network settings on your printer=0A         =
+                                                           screen.&lt;/p&gt;=0A  =
+                                                              &lt;p&gt;c) Choose =
+the name of your network and enter the network=0A                          =
+                                          password.&lt;/p&gt;=0A                 =
+                                           &lt;/div&gt;=0A                       =
+                                 &lt;/div&gt;=0A                                 =
+                   &lt;/div&gt;=0A=0A=0A                                         =
+           &lt;div class=3D&quot;panel&quot;&gt;=0A                                        =
+                &lt;div class=3D&quot;acod-head&quot;&gt;=0A                               =
+                             &lt;h6 class=3D&quot;acod-title&quot;&gt;=0A                  =
+                                              &lt;a data-bs-toggle=3D&quot;collapse=
+&quot; href=3D&quot;#collapseFive1&quot;=0A                                               =
+                     class=3D&quot;collapsed&quot; data-parent=3D&quot;#accordion1&quot;&gt;=0A   =
+                                                                 5. Reinsta=
+ll the Cartridge &lt;/a&gt;=0A                                                   =
+         &lt;/h6&gt;=0A                                                        &lt;/=
+div&gt;=0A                                                        &lt;div id=3D&quot;c=
+ollapseFive1&quot; class=3D&quot;acod-body collapse&quot;=0A                              =
+                              data-parent=3D&quot;#accordion1&quot;&gt;=0A              =
+                                              &lt;div class=3D&quot;acod-content&quot;&gt;=
+=0A                                                                &lt;p&gt;a) Tu=
+rn off your printer.&lt;/p&gt;=0A=0A                                             =
+                   &lt;p&gt;b) Remove the cartridges from the printer.&lt;/p&gt;=0A    =
+                                                            &lt;p&gt;c) Shake the=
+m well and reinstall them and turn on the=0A                               =
+                                     printer again.&lt;/p&gt;=0A                 =
+                                           &lt;/div&gt;=0A                       =
+                                 &lt;/div&gt;=0A                                 =
+                   &lt;/div&gt;=0A=0A                                            =
+        &lt;div class=3D&quot;panel&quot;&gt;=0A                                           =
+             &lt;div class=3D&quot;acod-head&quot;&gt;=0A                                  =
+                          &lt;h6 class=3D&quot;acod-title&quot;&gt;=0A                     =
+                                           &lt;a data-bs-toggle=3D&quot;collapse&quot; h=
+ref=3D&quot;#collapseThree1&quot;=0A                                                 =
+                   class=3D&quot;collapsed&quot; data-parent=3D&quot;#accordion1&quot;&gt;=0A     =
+                                                               6. Paper Jam=
+=0A                                                                &lt;/a&gt;=0A =
+                                                           &lt;/h6&gt;=0A        =
+                                                &lt;/div&gt;=0A                  =
+                                      &lt;div id=3D&quot;collapseThree1&quot; class=3D&quot;a=
+cod-body collapse&quot;=0A                                                      =
+      data-parent=3D&quot;#accordion1&quot;&gt;=0A                                      =
+                      &lt;div class=3D&quot;acod-content&quot;&gt;=0A                      =
+                                          &lt;p&gt;Remove the printer tray and ch=
+eck for any piece of paper=0A                                              =
+                      stuck inside.&lt;/p&gt;=0A                                 =
+                               &lt;p&gt;Make sure you are entering the correct si=
+ze of paper in=0A                                                          =
+          the tray and it=E2=80=99s inserted in the right manner.&lt;/p&gt;=0A   =
+                                                             &lt;p&gt;If your pri=
+nt job isn&#039;t coming out, check the print queue=0A                          =
+                                          on your computer to ensure the jo=
+b is not stuck or=0A                                                       =
+             paused.&lt;/p&gt;=0A                                                =
+            &lt;/div&gt;=0A                                                      =
+  &lt;/div&gt;=0A                                                    &lt;/div&gt;=0A=0A=
+=0A                                                    &lt;div class=3D&quot;panel&quot;=
+&gt;=0A                                                        &lt;div class=3D&quot;a=
+cod-head&quot;&gt;=0A                                                            &lt;h=
+6 class=3D&quot;acod-title&quot;&gt;=0A                                                 =
+               &lt;a data-bs-toggle=3D&quot;collapse&quot; href=3D&quot;#collapseThreep31&quot;=0A=
+                                                                    class=
+=3D&quot;collapsed&quot; data-parent=3D&quot;#accordion1&quot;&gt;=0A                             =
+                                       7. Paper and Ink/Toner=0A           =
+                                                     &lt;/a&gt;=0A               =
+                                             &lt;/h6&gt;=0A                      =
+                                  &lt;/div&gt;=0A                                =
+                        &lt;div id=3D&quot;collapseThreep31&quot; class=3D&quot;acod-body col=
+lapse&quot;=0A                                                            data-p=
+arent=3D&quot;#accordion1&quot;&gt;=0A                                                  =
+          &lt;div class=3D&quot;acod-content&quot;&gt;=0A                                  =
+                              &lt;p&gt;Ensure that there is enough paper in the t=
+ray and that=0A                                                            =
+        the ink or toner cartridges are not empty or dried out.=0A         =
+                                                       &lt;/p&gt;=0A             =
+                                               &lt;/div&gt;=0A                   =
+                                     &lt;/div&gt;=0A                             =
+                       &lt;/div&gt;=0A=0A                                        =
+            &lt;div class=3D&quot;panel&quot;&gt;=0A                                       =
+                 &lt;div class=3D&quot;acod-head&quot;&gt;=0A                              =
+                              &lt;h6 class=3D&quot;acod-title&quot;&gt;=0A                 =
+                                               &lt;a data-bs-toggle=3D&quot;collaps=
+e&quot; href=3D&quot;#collapseThreed21&quot;=0A                                           =
+                         class=3D&quot;collapsed&quot; data-parent=3D&quot;#accordion1&quot;&gt;=
+=0A                                                                    8. D=
+efault Printer=0A                                                          =
+      &lt;/a&gt;=0A                                                            &lt;/=
+h6&gt;=0A                                                        &lt;/div&gt;=0A    =
+                                                    &lt;div id=3D&quot;collapseThre=
+ed21&quot; class=3D&quot;acod-body collapse&quot;=0A                                      =
+                      data-parent=3D&quot;#accordion1&quot;&gt;=0A                      =
+                                      &lt;div class=3D&quot;acod-content&quot;&gt;=0A      =
+                                                          &lt;p&gt;Make sure your=
+ printer is set as the default printer in=0A                               =
+                                     your computer&#039;s settings.&lt;/p&gt;=0A      =
+                                                      &lt;/div&gt;=0A            =
+                                            &lt;/div&gt;=0A                      =
+                              &lt;/div&gt;=0A=0A                                 =
+               &lt;/div&gt;=0A                                            &lt;/div&gt;=
+=0A                                                                        =
+    &lt;/td&gt;=0A                                &lt;/tr&gt;=0A=0A=0A                 =
+               &lt;tr&gt;=0A                                    &lt;td style=3D&quot;heig=
+ht:40px;&quot;&gt;&amp;nbsp;&lt;/td&gt;=0A                                &lt;/tr&gt;=0A=0A        =
+                        &lt;tr&gt;=0A                                    &lt;div=0A =
+                                       style=3D&quot;background-color: #275078; =
+padding: 20px; text-align: center; border-top: 1px solid #ddd; font-family:=
+ Arial, sans-serif; color: #ffffff;&quot;&gt;=0A                                   =
+     &lt;p style=3D&quot;margin: 0; font-size: 18px; line-height: 1.6;&quot;&gt;=0A        =
+                                    If your issue is still not resolved or =
+you&#039;re unable to follow these=0A                                           =
+ instructions, contact our troubleshooting experts, who will diagnose the=
+=0A                                            specific problem you&#039;re faci=
+ng. Our certified experts will help you resolve=0A                         =
+                   the issue over the phone &lt;br&gt; CALL OUR EXPERTS +1-512-88=
+5-1530.=0A                                        &lt;/p&gt;=0A                  =
+                  =0A                                    &lt;/div&gt;=0A=0A      =
+                          &lt;/tr&gt;=0A=0A                            &lt;/table&gt;=
+=0A                        &lt;/td&gt;=0A=0A=0A=0A                    &lt;tr&gt;=0A    =
+                    &lt;td style=3D&quot;height:20px;&quot;&gt;&amp;nbsp;&lt;/td&gt;=0A              =
+      &lt;/tr&gt;=0A                    &lt;tr&gt;=0A                        &lt;td style=
+=3D&quot;text-align:center;&quot;&gt;=0A                            &lt;p=0A               =
+                 style=3D&quot;font-size:14px; color:rgba(69, 80, 86, 0.74117647=
+05882353); line-height:18px; margin:0 0 0;&quot;&gt;=0A                            =
+    &amp;copy; &lt;strong&gt;https://printersclan.com&lt;/strong&gt;&lt;/p&gt;=0A                =
+        &lt;/td&gt;=0A                    &lt;/tr&gt;=0A                    &lt;tr&gt;=0A    =
+                    &lt;td style=3D&quot;height:80px;&quot;&gt;&amp;nbsp;&lt;/td&gt;=0A              =
+      &lt;/tr&gt;=0A                &lt;/table&gt;=0A            &lt;/td&gt;=0A        &lt;/tr&gt;=
+=0A    &lt;/table&gt;=0A&lt;/body&gt;=0A=0A&lt;/html&gt;
+
+--B_ALT_68bc74e7c42ca8.79714475--</pre>
+CRITICAL - 2025-09-06 17:52:53 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 17:53:10 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 17:53:28 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 17:57:04 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 17:57:20 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 17:58:43 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 18:00:59 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 18:01:32 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 18:42:01 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 19:09:22 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 19:40:30 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 20:18:05 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 20:18:21 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 20:19:35 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 21:06:26 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 21:06:32 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 21:35:15 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 22:07:33 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-09-06 22:32:13 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "js(1)"
+[Method: GET, Route: asset/js%281%29]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()

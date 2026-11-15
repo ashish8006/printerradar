@@ -1,0 +1,1044 @@
+/* ==========================================================================
+   GLOBAL CSS STYLESHEET
+   Printerradar - Expert Printer Support & Troubleshooting
+   ========================================================================== */
+
+/* ==========================================================================
+   1. RESET & BASE STYLES
+   ========================================================================== */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Sora', sans-serif;
+  background-color: #f8fafc;
+  color: #0f172a;
+  line-height: 1.6;
+}
+
+/* ==========================================================================
+   2. TYPOGRAPHY
+   ========================================================================== */
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+p {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+/* ==========================================================================
+   3. HEADER STYLES
+   ========================================================================== */
+
+/* Header Top Bar */
+.header-top {
+  background: linear-gradient(135deg, #1e40af 0%, #1e3a8a 100%);
+  color: white;
+  padding: 12px 0;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.top-bar-text {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-weight: 500;
+}
+
+/* Main Header */
+.header-main {
+  background: white;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+  padding: 0;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+/* Logo & Brand */
+.logo-brand {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  text-decoration: none;
+  font-weight: 700;
+  transition: all 0.3s ease;
+}
+
+.logo-icon {
+  width: 48px;
+  height: 48px;
+  background: linear-gradient(135deg, #1e40af 0%, #0ea5e9 100%);
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 24px;
+  box-shadow: 0 8px 20px rgba(30, 64, 175, 0.3);
+}
+
+.logo-text {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.2;
+}
+
+.logo-text .brand-name {
+  font-size: 18px;
+  font-weight: 800;
+  background: linear-gradient(135deg, #1e40af 0%, #0ea5e9 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.logo-text .tagline {
+  font-size: 11px;
+  color: #64748b;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+
+/* Navigation Links */
+.nav-link {
+  color: #475569;
+  font-weight: 600;
+  font-size: 15px;
+  transition: all 0.3s ease;
+  position: relative;
+  padding: 8px 0;
+  display: inline-flex;
+  align-items: center;
+}
+
+.nav-link::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background: linear-gradient(135deg, #1e40af 0%, #0ea5e9 100%);
+  transition: width 0.3s ease;
+}
+
+.nav-link:hover::after {
+  width: 100%;
+}
+
+.nav-link:hover {
+  color: #1e40af;
+}
+
+.nav-link i {
+  margin-right: 8px;
+}
+
+/* Contact Info */
+.contact-badge {
+  background: linear-gradient(135deg, #1e40af 0%, #0ea5e9 100%);
+  color: white;
+  padding: 10px 16px;
+  border-radius: 8px;
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  display: inline-block;
+  margin-bottom: 8px;
+  box-shadow: 0 8px 20px rgba(30, 64, 175, 0.3);
+}
+
+.contact-item {
+  transition: all 0.3s ease;
+}
+
+.contact-item:hover {
+  transform: translateY(-2px);
+}
+
+.contact-link {
+  color: #1e3a8a;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 14px;
+  transition: all 0.3s ease;
+}
+
+.contact-link:hover {
+  color: #0ea5e9;
+}
+
+.contact-label {
+  color: #64748b;
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 4px;
+  display: block;
+}
+
+.icon-flag {
+  width: 24px;
+  height: 16px;
+  display: inline-block;
+  margin-right: 6px;
+  border-radius: 3px;
+}
+
+/* Mobile Menu Button */
+.mobile-menu-btn {
+  background: linear-gradient(135deg, #1e40af 0%, #0ea5e9 100%);
+  color: white;
+  border: none;
+  width: 44px;
+  height: 44px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-size: 20px;
+  transition: all 0.3s ease;
+  box-shadow: 0 8px 20px rgba(30, 64, 175, 0.3);
+}
+
+.mobile-menu-btn:hover {
+  transform: scale(1.05);
+  box-shadow: 0 12px 30px rgba(30, 64, 175, 0.4);
+}
+
+/* Mobile Navigation */
+.mobile-nav-link {
+  display: block;
+  color: #0f172a;
+  font-weight: 600;
+  padding: 12px 0;
+  border-bottom: 1px solid #e2e8f0;
+  transition: all 0.3s ease;
+}
+
+.mobile-nav-link:hover {
+  color: #1e40af;
+  padding-left: 8px;
+}
+
+.mobile-nav-link i {
+  margin-right: 8px;
+}
+
+.mobile-contact-section {
+  padding: 20px 0;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+.mobile-contact-title {
+  font-size: 12px;
+  font-weight: 700;
+  color: #64748b;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 12px;
+}
+
+/* ==========================================================================
+   4. HERO & MAIN SECTION
+   ========================================================================== */
+
+.hero-section {
+  background: #f8fafc;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
+}
+
+.hero-content-with-bg {
+  width: 100%;
+  position: relative;
+  z-index: 1;
+  background: url('./images/herosectionbg.jpg') center/cover no-repeat;
+  padding: 60px 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 40px;
+}
+
+.hero-content-with-bg::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: -1;
+}
+
+.hero-content-with-bg > div {
+  max-width: 1200px;
+  width: 100%;
+}
+
+.hero-content-with-bg > form {
+  max-width: 1200px;
+  width: 100%;
+}
+
+.hero-content-with-bg .grid-3-cols {
+  max-width: 1200px;
+}
+
+.hero-content {
+  max-width: 1200px;
+  width: 100%;
+  position: relative;
+  z-index: 1;
+}
+
+/* ==========================================================================
+   5. FORM CARD STYLES
+   ========================================================================== */
+
+.form-card {
+  background: white;
+  border-radius: 24px;
+  padding: 60px 40px;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.12);
+  backdrop-filter: blur(10px);
+}
+
+/* ==========================================================================
+   6. TYPOGRAPHY - MAIN CONTENT
+   ========================================================================== */
+
+.main-heading {
+  font-size: 42px;
+  font-weight: 800;
+  color: #0f172a;
+  text-align: center;
+  margin-bottom: 20px;
+  line-height: 1.3;
+  letter-spacing: -0.5px;
+}
+
+.subheading {
+  font-size: 20px;
+  color: #64748b;
+  text-align: center;
+  margin-bottom: 50px;
+  line-height: 1.6;
+}
+
+.form-title {
+  font-size: 32px;
+  font-weight: 700;
+  color: #0f172a;
+  text-align: center;
+  margin-bottom: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.form-title i {
+  margin-right: 12px;
+}
+
+.form-subtitle {
+  font-size: 18px;
+  color: white;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+/* ==========================================================================
+   7. BRAND CARD STYLES
+   ========================================================================== */
+
+.brand-card {
+  padding: 10px 10px;
+  border: 3px solid #e5e7eb;
+  border-radius: 10px;
+  text-align: center;
+  transition: all 0.3s ease;
+  background: white;
+  cursor: pointer;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 160px;
+}
+
+.brand-card:hover {
+  border-color: #0052cc;
+  box-shadow: 0 20px 50px rgba(0, 82, 204, 0.15);
+  transform: translateY(-8px);
+}
+
+.brand-card-img {
+  width: 120px;
+  height: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.brand-card-img img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+  border-radius: 50%;
+}
+
+.brand-card-name {
+  font-size: 22px;
+  font-weight: 700;
+  color: #0f172a;
+  margin-bottom: 8px;
+}
+
+.brand-card-desc {
+  font-size: 15px;
+  color: #64748b;
+}
+
+.brand-card-check {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  width: 32px;
+  height: 32px;
+  border: 2px solid #e5e7eb;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: white;
+  transition: all 0.3s ease;
+}
+
+.brand-card-check i {
+  color: white;
+  font-size: 16px;
+  display: none;
+}
+
+/* Radio Button Checked State */
+input[type="radio"]:checked + .brand-card {
+  border-color: #0052cc;
+  background: linear-gradient(135deg, #f0f7ff 0%, #e6f0ff 100%);
+  box-shadow: 0 20px 50px rgba(0, 82, 204, 0.15);
+}
+
+input[type="radio"]:checked + .brand-card .brand-card-check {
+  background: linear-gradient(135deg, #0052cc 0%, #1976d2 100%);
+  border-color: #0052cc;
+}
+
+input[type="radio"]:checked + .brand-card .brand-card-check i {
+  display: block;
+  animation: checkPopIn 0.3s ease;
+}
+
+@keyframes checkPopIn {
+  0% {
+    transform: scale(0);
+  }
+  50% {
+    transform: scale(1.2);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+/* ==========================================================================
+   8. FEATURE BOX STYLES
+   ========================================================================== */
+
+.feature-box {
+  padding: 28px 24px;
+  border-radius: 14px;
+  border: 2px solid;
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  transition: all 0.3s ease;
+}
+
+.feature-box:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.1);
+}
+
+.feature-box-icon {
+  font-size: 28px;
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+
+.feature-box-text h4 {
+  font-size: 17px;
+  font-weight: 700;
+  color: #0f172a;
+  margin-bottom: 6px;
+}
+
+.feature-box-text p {
+  font-size: 15px;
+  color: #475569;
+  margin: 0;
+  line-height: 1.5;
+}
+
+.feature-1 {
+  background: linear-gradient(135deg, #eff6ff 0%, #dbeafe 100%);
+  border-color: #bfdbfe;
+}
+
+.feature-1 .feature-box-icon {
+  color: #0052cc;
+}
+
+.feature-2 {
+  background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%);
+  border-color: #bbf7d0;
+}
+
+.feature-2 .feature-box-icon {
+  color: #059669;
+}
+
+.feature-3 {
+  background: linear-gradient(135deg, #fffbeb 0%, #fef3c7 100%);
+  border-color: #fde047;
+}
+
+.feature-3 .feature-box-icon {
+  color: #d97706;
+}
+
+/* ==========================================================================
+   9. BUTTON STYLES
+   ========================================================================== */
+
+.btn-primary {
+  background: linear-gradient(135deg, #0052cc 0%, #1976d2 100%);
+  color: white;
+  border: none;
+  padding: 18px 50px;
+  font-size: 18px;
+  font-weight: 700;
+  border-radius: 12px;
+  cursor: pointer;
+  box-shadow: 0 10px 30px rgba(0, 82, 204, 0.3);
+  transition: all 0.3s ease;
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  text-decoration: none;
+}
+
+.btn-primary:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 15px 40px rgba(0, 82, 204, 0.4);
+}
+
+.btn-primary:active {
+  transform: translateY(-1px);
+}
+
+.btn-secondary {
+  border: 3px solid #0052cc;
+  color: #0052cc;
+  padding: 15px 50px;
+  font-size: 18px;
+  font-weight: 700;
+  border-radius: 12px;
+  background: transparent;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  text-decoration: none;
+}
+
+.btn-secondary:hover {
+  background: #0052cc;
+  color: white;
+  transform: translateY(-3px);
+  box-shadow: 0 12px 30px rgba(0, 82, 204, 0.2);
+}
+
+.btn-secondary:active {
+  transform: translateY(-1px);
+}
+
+.btn-icon {
+  font-size: 20px;
+}
+
+.btn-submit {
+  background: linear-gradient(135deg, #0052cc 0%, #1976d2 100%);
+  color: white;
+  border: none;
+  padding: 12px 28px;
+  font-size: 16px;
+  font-weight: 700;
+  border-radius: 8px;
+  cursor: pointer;
+  box-shadow: 0 8px 20px rgba(0, 82, 204, 0.3);
+  transition: all 0.3s ease;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.btn-submit:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 12px 30px rgba(0, 82, 204, 0.4);
+}
+
+/* ==========================================================================
+   10. MODAL STYLES
+   ========================================================================== */
+
+.modal-content {
+  border: none;
+  border-radius: 16px;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.15);
+}
+
+.modal-header {
+  background: linear-gradient(135deg, #0052cc 0%, #1976d2 100%);
+  color: white;
+  border: none;
+  border-radius: 16px 16px 0 0;
+  padding: 28px 32px;
+  border-bottom: none;
+}
+
+.modal-header .modal-title {
+  font-size: 24px;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+}
+
+.modal-header i {
+  margin-right: 12px;
+}
+
+.modal-footer {
+  border-top: 1px solid #e2e8f0;
+  padding: 24px 32px;
+  background: #f8fafc;
+  border-radius: 0 0 16px 16px;
+}
+
+.form-label {
+  font-weight: 600;
+  color: #0f172a;
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+}
+
+.form-label i {
+  margin-right: 8px;
+  color: #0052cc;
+}
+
+.form-control {
+  border: 2px solid #e2e8f0;
+  border-radius: 10px;
+  padding: 12px 16px;
+  font-size: 15px;
+  font-family: inherit;
+  transition: all 0.3s ease;
+}
+
+.form-control:focus {
+  outline: none;
+  border-color: #0052cc;
+  box-shadow: 0 0 0 3px rgba(0, 82, 204, 0.1);
+}
+
+/* ==========================================================================
+   11. ALERT STYLES
+   ========================================================================== */
+
+.alert-success {
+  background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%);
+  border: 2px solid #86efac;
+  border-radius: 12px;
+  padding: 20px 24px;
+  color: #15803d;
+}
+
+.alert-success i {
+  color: #16a34a;
+}
+
+.alert-danger {
+  background: linear-gradient(135deg, #fef2f2 0%, #fee2e2 100%);
+  border: 2px solid #fca5a5;
+  border-radius: 12px;
+  padding: 20px 24px;
+  color: #991b1b;
+}
+
+.alert-danger i {
+  color: #dc2626;
+}
+
+/* ==========================================================================
+   12. FOOTER STYLES
+   ========================================================================== */
+
+footer {
+  background: linear-gradient(to bottom right, #111827, #1f2937, #111827);
+  color: white;
+  margin-top: 80px;
+}
+
+footer a {
+  transition: all 0.3s ease;
+}
+
+footer .text-gray-400 {
+  color: #9ca3af;
+}
+
+footer .text-gray-400:hover {
+  color: #e7f128;
+}
+
+footer .text-gray-300 {
+  color: #d1d5db;
+}
+
+footer .text-gray-300:hover {
+  color: #e7f128;
+}
+
+/* Disclaimer Box */
+.disclaimer-box {
+  background: #1f2937;
+  border: 1px solid #374151;
+  border-radius: 12px;
+  padding: 24px;
+}
+
+/* Disclaimer Section */
+.disclaimer-section {
+  padding-left: 40px;
+  padding-right: 40px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* ==========================================================================
+   13. GRID LAYOUTS
+   ========================================================================== */
+
+.grid-4-cols {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 24px;
+  margin-bottom: 50px;
+}
+
+.grid-3-cols {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+
+.flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+  flex-wrap: wrap;
+  margin-bottom: 50px;
+}
+
+/* ==========================================================================
+   14. UTILITY CLASSES
+   ========================================================================== */
+
+.animate-fade-in {
+  animation: fade-in 0.6s ease-out;
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #0052cc;
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #003d99;
+}
+
+/* ==========================================================================
+   15. FOCUS STATES FOR ACCESSIBILITY
+   ========================================================================== */
+
+button:focus,
+a:focus,
+input:focus {
+  outline: 3px solid #0052cc;
+  outline-offset: 2px;
+}
+
+/* ==========================================================================
+   16. PRINT STYLES
+   ========================================================================== */
+
+@media print {
+  .hero-section::before {
+    display: none;
+  }
+}
+
+/* ==========================================================================
+   17. RESPONSIVE DESIGN
+   ========================================================================== */
+
+/* Tablets (768px and below) */
+@media (max-width: 768px) {
+  .form-card {
+    padding: 40px 25px;
+  }
+
+  .main-heading {
+    font-size: 32px;
+  }
+
+  .subheading {
+    font-size: 18px;
+  }
+
+  .form-title {
+    font-size: 26px;
+  }
+
+  .form-subtitle {
+    font-size: 16px;
+  }
+
+  .brand-card {
+    min-height: 200px;
+    padding: 25px 15px;
+  }
+
+  .brand-card-name {
+    font-size: 18px;
+  }
+
+  .btn-primary,
+  .btn-secondary {
+    padding: 14px 32px;
+    font-size: 16px;
+  }
+
+  .feature-box {
+    padding: 20px 16px;
+  }
+
+  .feature-box-text h4 {
+    font-size: 16px;
+  }
+
+  .feature-box-text p {
+    font-size: 14px;
+  }
+
+  .grid-4-cols {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 16px;
+  }
+
+  .grid-3-cols {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 16px;
+  }
+
+  .flex-center {
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  .nav-link {
+    font-size: 14px;
+  }
+}
+
+/* Mobile (480px and below) */
+@media (max-width: 480px) {
+  .form-card {
+    padding: 30px 16px;
+    border-radius: 16px;
+  }
+
+  .main-heading {
+    font-size: 28px;
+    margin-bottom: 16px;
+  }
+
+  .subheading {
+    font-size: 16px;
+    margin-bottom: 36px;
+  }
+
+  .form-title {
+    font-size: 22px;
+  }
+
+  .form-subtitle {
+    font-size: 15px;
+    margin-bottom: 30px;
+  }
+
+  .brand-card {
+    min-height: 180px;
+    padding: 20px 12px;
+  }
+
+  .brand-card-img {
+    width: 70px;
+    height: 70px;
+    margin-bottom: 12px;
+  }
+
+  .brand-card-name {
+    font-size: 16px;
+  }
+
+  .brand-card-desc {
+    font-size: 13px;
+  }
+
+  .btn-primary,
+  .btn-secondary {
+    padding: 12px 24px;
+    font-size: 15px;
+    width: 100%;
+    justify-content: center;
+  }
+
+  .feature-box {
+    padding: 16px 12px;
+    gap: 12px;
+  }
+
+  .feature-box-icon {
+    font-size: 24px;
+  }
+
+  .feature-box-text h4 {
+    font-size: 15px;
+  }
+
+  .feature-box-text p {
+    font-size: 13px;
+  }
+
+  .grid-4-cols {
+    grid-template-columns: repeat(1, 1fr);
+    gap: 12px;
+    margin-bottom: 36px;
+  }
+
+  .grid-3-cols {
+    grid-template-columns: repeat(1, 1fr);
+    gap: 12px;
+    margin-bottom: 36px;
+  }
+
+  .flex-center {
+    flex-direction: column;
+    gap: 12px;
+    margin-bottom: 36px;
+  }
+
+  .hero-section {
+    padding: 20px 16px;
+    padding-top: 40px;
+  }
+
+  .mobile-menu-btn {
+    width: 40px;
+    height: 40px;
+    font-size: 18px;
+  }
+
+  header .max-w-7xl {
+    padding: 0 12px;
+  }
+}
+
+/* Very Small Devices (320px and below) */
+@media (max-width: 320px) {
+  .main-heading {
+    font-size: 24px;
+  }
+
+  .form-title {
+    font-size: 20px;
+  }
+
+  .btn-primary,
+  .btn-secondary {
+    padding: 10px 16px;
+    font-size: 14px;
+  }
+}

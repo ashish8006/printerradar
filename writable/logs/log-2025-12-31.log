@@ -1,0 +1,441 @@
+ERROR - 2025-12-31 15:43:13 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2025-12-31 15:43:13 --> 220-p3plzcpnl502534.prod.phx3.secureserver.net ESMTP Exim 4.98.2 #2 Wed, 31 Dec 2025 08:43:08 -0700 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+hello: 250-p3plzcpnl502534.prod.phx3.secureserver.net Hello printersclan.com [72.167.68.198]
+250-SIZE 52428800
+250-LIMITS MAILMAX=10 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250 HELP
+
+from: 250 OK
+
+to: 250 Accepted
+
+data: 354 Enter message, ending with "." on a line by itself
+
+
+quit: 250 OK id=1vayLs-0000000B4Fl-1Qbl
+
+The following SMTP error was encountered: 250 OK id=1vayLs-0000000B4Fl-1Qbl
+
+The following SMTP error was encountered: 
+ERROR - 2025-12-31 15:43:13 --> 220-p3plzcpnl502534.prod.phx3.secureserver.net ESMTP Exim 4.98.2 #2 Wed, 31 Dec 2025 08:43:08 -0700 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+<br><pre>hello: 250-p3plzcpnl502534.prod.phx3.secureserver.net Hello printersclan.com [72.167.68.198]
+250-SIZE 52428800
+250-LIMITS MAILMAX=10 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250 HELP
+</pre><pre>from: 250 OK
+</pre><pre>to: 250 Accepted
+</pre><pre>data: 354 Enter message, ending with "." on a line by itself
+</pre><br><pre>quit: 250 OK id=1vayLs-0000000B4Fl-1Qbl
+</pre>The following SMTP error was encountered: 250 OK id=1vayLs-0000000B4Fl-1Qbl
+<br>The following SMTP error was encountered: <br>Unable to send email using SMTP. Your server might not be configured to send mail using this method.<br><pre>Date: Wed, 31 Dec 2025 15:43:08 +0000
+From: &quot;Printersclan Team&quot; &lt;noreply@printersclan.com&gt;
+Return-Path: &lt;noreply@printersclan.com&gt;
+To: mchurch@mei.net
+Subject: =?UTF-8?Q?Support=20Confirmation?=
+Reply-To: &lt;noreply@printersclan.com&gt;
+User-Agent: CodeIgniter
+X-Sender: noreply@printersclan.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;6955448c3cfce4.37422980@printersclan.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_6955448c3cff17.67834687&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_6955448c3cff17.67834687
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+&amp;nbsp;
+
+
+
+
+
+
+ PRINTERSCLAN
+
+
+
+
+
+ &amp;nbsp;
+
+
+
+
+
+ &amp;nbsp;
+
+
+ &amp;nbsp;
+
+
+
+ Dear martin We hope this email finds you well.
+ We appreciate you reaching out about issues with your
+ Canon printer
+ TR8620a
+
+
+
+
+
+
+
+
+
+ Wi-Fi / Wireless setup (Windows)
+
+
+
+ In the first step, connect the printer to WiFi.
+
+
+ Then, download the printer driver from the official page.
+
+
+
+ Next, double-tap the downloaded file.
+
+
+ Now, you have to complete the installation steps.
+
+
+ In the next step, tap the Window key + R.
+
+
+ Next, the Run dialogue box will open.
+
+
+ Now, enter “control/name Microsoft.DevicesAndPrinters.”
+
+
+
+ After that, click the OK button.
+
+
+ Then, the Devices and Printers folder will open.
+
+
+ Next, your screen will display the Add Printer option.
+
+
+
+ Click the Add Printer button and follow the prompts.
+
+
+
+
+
+
+ Wi-Fi / Wireless setup (Mac)
+
+
+ Firstly, you will need to turn on the Mac device and
+ printer.
+
+
+ Next, connect the printer to the wireless network.
+
+
+ Now, go to the official page and download the printer
+ driver.
+
+
+ Then, complete the driver installation process.
+
+
+ After that, go to the Apple Menu.
+
+
+ In the menu, you have to click the System and Preferences
+ option.
+
+
+ On the next screen, select the Printers and Scanners
+ option.
+
+
+ Thereafter, you need to click the “+” sign and add the
+ printer.
+
+
+ From the pop-up window, choose your printer.
+
+
+ Then, tap on the Add button.
+
+
+ After adding your printer, its icon will appear on the
+ screen.
+
+
+ Finally! You are all set on a Mac device.
+
+
+
+
+
+
+
+
+
+
+
+ &amp;nbsp;
+
+
+
+
+
+ If your issue is still not resolved or you&#039;re unable to follow these
+ instructions, contact our troubleshooting experts, who will diagnose the
+ specific problem you&#039;re facing. Our certified experts will help you resolve
+ the issue over the phone CALL OUR EXPERTS +1-512-885-1530.
+
+
+
+
+
+
+
+
+
+
+ &amp;nbsp;
+
+
+
+
+ &amp;copy; https://printersclan.com
+
+
+
+ &amp;nbsp;
+
+
+--B_ALT_6955448c3cff17.67834687
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+&lt;!doctype html&gt;=0A&lt;html lang=3D&quot;en-US&quot;&gt;=0A=0A&lt;head&gt;=0A    &lt;meta content=3D&quot;=
+text/html; charset=3Dutf-8&quot; http-equiv=3D&quot;Content-Type&quot; /&gt;=0A    &lt;title&gt;Pri=
+ntersclan&lt;/title&gt;=0A    &lt;meta name=3D&quot;description&quot; content=3D&quot;Reset Passwor=
+d Email Template.&quot;&gt;=0A    &lt;style type=3D&quot;text/css&quot;&gt;=0A        a {=0A       =
+     text-decoration: none;=0A            font-size: 19px;=0A            fo=
+nt-family: rubik, sans-serif;=0A            cursor: auto;=0A        }=0A=0A=
+        .acod-content {=0A            font-family: Rubik, sans-serif;=0A   =
+         font-size: 18px;=0A        }=0A=0A        .errorcodeboxstepbox,=0A=
+        .userinfo,=0A        .printerwontprint_blankstepbox,=0A        .pap=
+erjamstepbox,=0A        .scannerissuestepbox,=0A        .setupprinterboxste=
+pbox {=0A            text-align: start;=0A        }=0A    &lt;/style&gt;=0A&lt;/head=
+&gt;=0A=0A=0A&lt;body marginheight=3D&quot;0&quot; topmargin=3D&quot;0&quot; marginwidth=3D&quot;0&quot; style=
+=3D&quot;margin: 0px; background-color: #f2f3f8;&quot; leftmargin=3D&quot;0&quot;&gt;=0A    &lt;!--10=
+0% body table--&gt;=0A    &lt;table cellspacing=3D&quot;0&quot; border=3D&quot;0&quot; cellpadding=3D=
+&quot;0&quot; width=3D&quot;100%&quot; bgcolor=3D&quot;#f2f3f8&quot;=0A        style=3D&quot;@import url(https=
+://fonts.googleapis.com/css?family=3DRubik:300,400,500,700|Open+Sans:300,40=
+0,600,700); font-family: &#039;Open Sans&#039;, sans-serif;&quot;&gt;=0A        &lt;tr&gt;=0A      =
+      &lt;td&gt;=0A                &lt;table style=3D&quot;background-color: #f2f3f8; max=
+-width:670px;  margin:0 auto;&quot; width=3D&quot;100%&quot; border=3D&quot;0&quot;=0A              =
+      align=3D&quot;center&quot; cellpadding=3D&quot;0&quot; cellspacing=3D&quot;0&quot;&gt;=0A             =
+       &lt;tr&gt;=0A                        &lt;td style=3D&quot;height:10px;&quot;&gt;&amp;nbsp;&lt;/td=
+&gt;=0A                    &lt;/tr&gt;=0A                    &lt;tr&gt;=0A                =
+        &lt;td style=3D&quot;text-align:center;&quot;&gt;=0A                            &lt;a =
+href=3D&quot;https://printersclan.com/&quot; style=3D&quot;=0A                            =
+        text-decoration: none;=0A                                    displa=
+y: flex;=0A                                    justify-content: center;=0A =
+                               &quot;&gt;=0A                                &lt;img sr=
+c=3D&quot;https://printersclan.com/asset/images/printersclaniconlogo.png&quot; alt=3D=
+&quot;&quot; style=3D&quot;=0A                                    width: 72px;=0A         =
+                           position: relative;=0A                          =
+          left: 30px;=0A                                &quot; srcset=3D&quot;&quot;&gt;=0A  =
+                              &lt;div style=3D&quot;=0A                            =
+        left: 44px;=0A                                    position: relativ=
+e;=0A                                    font-size: 31px;=0A               =
+                     text-decoration: none;=0A                             =
+       top: 25px;=0A                                &quot;&gt;=0A                  =
+                  &lt;span class=3D&quot;&quot; style=3D&quot;color: #004db1;font-weight:800;=
+&quot;&gt;PRINTERS&lt;/span&gt;&lt;span=0A                                        style=3D&quot;c=
+olor:yellow;font-weight:800;&quot;&gt;CLAN&lt;/span&gt;=0A                               =
+ &lt;/div&gt;=0A                            &lt;/a&gt;=0A                        &lt;/td&gt;=
+=0A                    &lt;/tr&gt;=0A                    &lt;tr&gt;=0A                 =
+       &lt;td style=3D&quot;height:20px;&quot;&gt;&amp;nbsp;&lt;/td&gt;=0A                    &lt;/tr&gt;=
+=0A                    &lt;tr&gt;=0A                        &lt;td&gt;=0A              =
+              &lt;table width=3D&quot;95%&quot; border=3D&quot;0&quot; align=3D&quot;center&quot; cellpaddin=
+g=3D&quot;0&quot; cellspacing=3D&quot;0&quot;=0A                                style=3D&quot;max-wi=
+dth:670px;background:#fff; border-radius:3px; text-align:center;-webkit-box=
+-shadow:0 6px 18px 0 rgba(0,0,0,.06);-moz-box-shadow:0 6px 18px 0 rgba(0,0,=
+0,.06);box-shadow:0 6px 18px 0 rgba(0,0,0,.06);&quot;&gt;=0A                       =
+         &lt;tr&gt;=0A                                    &lt;td style=3D&quot;height:40p=
+x;&quot;&gt;&amp;nbsp;&lt;/td&gt;=0A                                &lt;/tr&gt;=0A                 =
+               &lt;tr&gt;=0A                                    &lt;td style=3D&quot;heig=
+ht:20px;&quot;&gt;&amp;nbsp;&lt;/td&gt;=0A                                &lt;/tr&gt;=0A=0A        =
+                        &lt;tr class=3D&quot;userinfo&quot;&gt;=0A                         =
+           &lt;td style=3D&quot;padding:10px 35px;&quot;&gt;&lt;strong&gt;Dear &lt;/strong&gt;martin   =
+                                      &lt;p&gt;We hope this email finds you well.=
+&lt;/p&gt;=0A                                        &lt;p&gt;We appreciate you reachin=
+g out about issues with your=0A                                            =
+&lt;strong&gt;Canon&lt;/strong&gt; printer=0A                                          =
+  &lt;strong&gt;TR8620a&lt;/strong&gt;=0A                                        &lt;/p&gt;=
+=0A                                    &lt;/td&gt;=0A                            =
+    &lt;/tr&gt;=0A=0A=0A                                &lt;tr&gt;=0A                  =
+                  &lt;td style=3D&quot;padding:0 35px;&quot;&gt;=0A                        =
+                                                                &lt;div class=
+=3D&quot;wifiorwireless&quot;&gt;=0A                                                    =
+&lt;div class=3D&quot;col-lg-12 paperjamstepbox&quot;&gt;=0A                               =
+                         &lt;div class=3D&quot;shadow cardbackgroundcolor p-3 setup=
+forwindow&quot;&gt;=0A                                                            &lt;=
+h3 class=3D&quot;mt-2 my-3 text-primary&quot;&gt;Wi-Fi / Wireless setup (Windows)=0A    =
+                                                        &lt;/h3&gt;=0A           =
+                                                 &lt;ul class=3D&quot;scannerissuel=
+isting p-0&quot;&gt;=0A                                                            =
+    &lt;li&gt;=0A                                                                =
+    &lt;p&gt;In the first step, connect the printer to WiFi.&lt;/p&gt;=0A              =
+                                                  &lt;/li&gt;=0A                 =
+                                               &lt;li&gt;=0A                     =
+                                               &lt;p&gt;Then, download the printe=
+r driver from the official page.=0A                                        =
+                            &lt;/p&gt;=0A                                        =
+                        &lt;/li&gt;=0A                                           =
+                     &lt;li&gt;=0A                                               =
+                     &lt;p&gt;Next, double-tap the downloaded file.&lt;/p&gt;=0A       =
+                                                         &lt;/li&gt;=0A          =
+                                                      &lt;li&gt;=0A              =
+                                                      &lt;p&gt;Now, you have to c=
+omplete the installation steps.&lt;/p&gt;=0A                                     =
+                           &lt;/li&gt;=0A                                        =
+                        &lt;li&gt;=0A                                            =
+                        &lt;p&gt;In the next step, tap the Window key + R.&lt;/p&gt;=0A=
+                                                                &lt;/li&gt;=0A   =
+                                                             &lt;li&gt;=0A       =
+                                                             &lt;p&gt;Next, the R=
+un dialogue box will open.&lt;/p&gt;=0A                                          =
+                      &lt;/li&gt;=0A                                             =
+                   &lt;li&gt;=0A                                                 =
+                   &lt;p&gt;Now, enter =E2=80=9Ccontrol/name Microsoft.DevicesAnd=
+Printers.=E2=80=9D=0A                                                      =
+              &lt;/p&gt;=0A                                                      =
+          &lt;/li&gt;=0A                                                         =
+       &lt;li&gt;=0A                                                             =
+       &lt;p&gt;After that, click the OK button.&lt;/p&gt;=0A                          =
+                                      &lt;/li&gt;=0A                             =
+                                   &lt;li&gt;=0A                                 =
+                                   &lt;p&gt;Then, the Devices and Printers folder=
+ will open.&lt;/p&gt;=0A                                                         =
+       &lt;/li&gt;=0A                                                            =
+    &lt;li&gt;=0A                                                                =
+    &lt;p&gt;Next, your screen will display the Add Printer option.=0A           =
+                                                         &lt;/p&gt;=0A           =
+                                                     &lt;/li&gt;=0A              =
+                                                  &lt;li&gt;=0A                  =
+                                                  &lt;p&gt;Click the Add Printer =
+button and follow the prompts.&lt;/p&gt;=0A                                      =
+                          &lt;/li&gt;=0A=0A                                      =
+                      &lt;/ul&gt;=0A                                             =
+           &lt;/div&gt;=0A=0A                                                    =
+    &lt;div class=3D&quot;shadow cardbackgroundcolor p-3 my-3 setformac&quot;&gt;=0A       =
+                                                     &lt;h3 class=3D&quot;mt-2 my-3=
+ text-primary&quot;&gt;Wi-Fi / Wireless setup (Mac)&lt;/h3&gt;=0A                        =
+                                    &lt;ul class=3D&quot;scannerissuelisting p-0&quot;&gt;=
+=0A                                                                &lt;li&gt;=0A =
+                                                                   &lt;p&gt;First=
+ly, you will need to turn on the Mac device and=0A                         =
+                                               printer.&lt;/p&gt;=0A             =
+                                                   &lt;/li&gt;=0A                =
+                                                &lt;li&gt;=0A                    =
+                                                &lt;p&gt;Next, connect the printe=
+r to the wireless network.&lt;/p&gt;=0A                                          =
+                      &lt;/li&gt;=0A                                             =
+                   &lt;li&gt;=0A                                                 =
+                   &lt;p&gt;Now, go to the official page and download the printer=
+=0A                                                                        =
+driver.&lt;/p&gt;=0A                                                             =
+   &lt;/li&gt;=0A                                                                =
+&lt;li&gt;=0A                                                                    =
+&lt;p&gt;Then, complete the driver installation process.&lt;/p&gt;=0A                  =
+                                              &lt;/li&gt;=0A                     =
+                                           &lt;li&gt;=0A                         =
+                                           &lt;p&gt;After that, go to the Apple M=
+enu.&lt;/p&gt;=0A                                                                =
+&lt;/li&gt;=0A                                                                &lt;li=
+&gt;=0A                                                                    &lt;p&gt;=
+In the menu, you have to click the System and Preferences=0A               =
+                                                         option.&lt;/p&gt;=0A    =
+                                                            &lt;/li&gt;=0A       =
+                                                         &lt;li&gt;=0A           =
+                                                         &lt;p&gt;On the next scr=
+een, select the Printers and Scanners=0A                                   =
+                                     option.&lt;/p&gt;=0A                        =
+                                        &lt;/li&gt;=0A                           =
+                                     &lt;li&gt;=0A                               =
+                                     &lt;p&gt;Thereafter, you need to click the =
+=E2=80=9C+=E2=80=9D sign and add the=0A                                    =
+                                    printer.&lt;/p&gt;=0A                        =
+                                        &lt;/li&gt;=0A                           =
+                                     &lt;li&gt;=0A                               =
+                                     &lt;p&gt;From the pop-up window, choose your=
+ printer.&lt;/p&gt;=0A                                                           =
+     &lt;/li&gt;=0A                                                              =
+  &lt;li&gt;=0A                                                                  =
+  &lt;p&gt;Then, tap on the Add button.&lt;/p&gt;=0A                                   =
+                             &lt;/li&gt;=0A                                      =
+                          &lt;li&gt;=0A                                          =
+                          &lt;p&gt;After adding your printer, its icon will appea=
+r on the=0A                                                                =
+        screen.&lt;/p&gt;=0A                                                     =
+           &lt;/li&gt;=0A                                                        =
+        &lt;li&gt;=0A                                                            =
+        &lt;p&gt;Finally! You are all set on a Mac device.&lt;/p&gt;=0A                =
+                                                &lt;/li&gt;=0A=0A                =
+                                            &lt;/ul&gt;=0A                       =
+                                 &lt;/div&gt;=0A                                 =
+                   &lt;/div&gt;=0A                                               =
+ &lt;/div&gt;=0A=0A                                                              =
+              &lt;/td&gt;=0A                                &lt;/tr&gt;=0A=0A=0A       =
+                         &lt;tr&gt;=0A                                    &lt;td sty=
+le=3D&quot;height:40px;&quot;&gt;&amp;nbsp;&lt;/td&gt;=0A                                &lt;/tr&gt;=0A=
+=0A                                &lt;tr&gt;=0A                                 =
+   &lt;div=0A                                        style=3D&quot;background-color=
+: #275078; padding: 20px; text-align: center; border-top: 1px solid #ddd; f=
+ont-family: Arial, sans-serif; color: #ffffff;&quot;&gt;=0A                        =
+                &lt;p style=3D&quot;margin: 0; font-size: 18px; line-height: 1.6;&quot;&gt;=
+=0A                                            If your issue is still not r=
+esolved or you&#039;re unable to follow these=0A                                =
+            instructions, contact our troubleshooting experts, who will dia=
+gnose the=0A                                            specific problem yo=
+u&#039;re facing. Our certified experts will help you resolve=0A                =
+                            the issue over the phone &lt;br&gt; CALL OUR EXPERTS =
++1-512-885-1530.=0A                                        &lt;/p&gt;=0A         =
+                           =0A                                    &lt;/div&gt;=0A=
+=0A                                &lt;/tr&gt;=0A=0A                            &lt;=
+/table&gt;=0A                        &lt;/td&gt;=0A=0A=0A=0A                    &lt;tr&gt;=
+=0A                        &lt;td style=3D&quot;height:20px;&quot;&gt;&amp;nbsp;&lt;/td&gt;=0A       =
+             &lt;/tr&gt;=0A                    &lt;tr&gt;=0A                        &lt;td=
+ style=3D&quot;text-align:center;&quot;&gt;=0A                            &lt;p=0A         =
+                       style=3D&quot;font-size:14px; color:rgba(69, 80, 86, 0.74=
+11764705882353); line-height:18px; margin:0 0 0;&quot;&gt;=0A                      =
+          &amp;copy; &lt;strong&gt;https://printersclan.com&lt;/strong&gt;&lt;/p&gt;=0A          =
+              &lt;/td&gt;=0A                    &lt;/tr&gt;=0A                    &lt;tr&gt;=
+=0A                        &lt;td style=3D&quot;height:80px;&quot;&gt;&amp;nbsp;&lt;/td&gt;=0A       =
+             &lt;/tr&gt;=0A                &lt;/table&gt;=0A            &lt;/td&gt;=0A       =
+ &lt;/tr&gt;=0A    &lt;/table&gt;=0A&lt;/body&gt;=0A=0A&lt;/html&gt;
+
+--B_ALT_6955448c3cff17.67834687--</pre>

@@ -1,0 +1,150 @@
+CRITICAL - 2026-02-15 00:43:24 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: resolution-and-troubleshooting]
+in APPPATH/Views/frontend/resoution-and-troubleshooting.php on line 28.
+ 1 APPPATH/Views/frontend/resoution-and-troubleshooting.php(28): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Views/frontend/index.php(3): include('/home/hklay1ww3as8/public_html/app/Views/frontend/resoution-and-troubleshooting.php')
+ 3 SYSTEMPATH/View/View.php(234): include('/home/hklay1ww3as8/public_html/app/Views/frontend/index.php')
+ 4 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 6 APPPATH/Controllers/Home.php(190): view()
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->resolutionAndTroubleshooting()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+10 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2026-02-15 00:43:41 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: resolution-and-troubleshooting]
+in APPPATH/Views/frontend/resoution-and-troubleshooting.php on line 28.
+ 1 APPPATH/Views/frontend/resoution-and-troubleshooting.php(28): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Views/frontend/index.php(3): include('/home/hklay1ww3as8/public_html/app/Views/frontend/resoution-and-troubleshooting.php')
+ 3 SYSTEMPATH/View/View.php(234): include('/home/hklay1ww3as8/public_html/app/Views/frontend/index.php')
+ 4 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 6 APPPATH/Controllers/Home.php(190): view()
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->resolutionAndTroubleshooting()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+10 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2026-02-15 13:57:53 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: resolution-and-troubleshooting]
+in APPPATH/Views/frontend/resoution-and-troubleshooting.php on line 28.
+ 1 APPPATH/Views/frontend/resoution-and-troubleshooting.php(28): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Views/frontend/index.php(3): include('/home/hklay1ww3as8/public_html/app/Views/frontend/resoution-and-troubleshooting.php')
+ 3 SYSTEMPATH/View/View.php(234): include('/home/hklay1ww3as8/public_html/app/Views/frontend/index.php')
+ 4 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 6 APPPATH/Controllers/Home.php(190): view()
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->resolutionAndTroubleshooting()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+10 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2026-02-15 18:02:28 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: resolution-and-troubleshooting]
+in APPPATH/Views/frontend/resoution-and-troubleshooting.php on line 28.
+ 1 APPPATH/Views/frontend/resoution-and-troubleshooting.php(28): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Views/frontend/index.php(3): include('/home/hklay1ww3as8/public_html/app/Views/frontend/resoution-and-troubleshooting.php')
+ 3 SYSTEMPATH/View/View.php(234): include('/home/hklay1ww3as8/public_html/app/Views/frontend/index.php')
+ 4 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 6 APPPATH/Controllers/Home.php(190): view()
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->resolutionAndTroubleshooting()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+10 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2026-02-15 18:07:28 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: resolution-and-troubleshooting]
+in APPPATH/Views/frontend/resoution-and-troubleshooting.php on line 28.
+ 1 APPPATH/Views/frontend/resoution-and-troubleshooting.php(28): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Views/frontend/index.php(3): include('/home/hklay1ww3as8/public_html/app/Views/frontend/resoution-and-troubleshooting.php')
+ 3 SYSTEMPATH/View/View.php(234): include('/home/hklay1ww3as8/public_html/app/Views/frontend/index.php')
+ 4 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 6 APPPATH/Controllers/Home.php(190): view()
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->resolutionAndTroubleshooting()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+10 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2026-02-15 18:20:02 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: resolution-and-troubleshooting]
+in APPPATH/Views/frontend/resoution-and-troubleshooting.php on line 28.
+ 1 APPPATH/Views/frontend/resoution-and-troubleshooting.php(28): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Views/frontend/index.php(3): include('/home/hklay1ww3as8/public_html/app/Views/frontend/resoution-and-troubleshooting.php')
+ 3 SYSTEMPATH/View/View.php(234): include('/home/hklay1ww3as8/public_html/app/Views/frontend/index.php')
+ 4 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 6 APPPATH/Controllers/Home.php(190): view()
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->resolutionAndTroubleshooting()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+10 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2026-02-15 18:30:01 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: resolution-and-troubleshooting]
+in APPPATH/Views/frontend/resoution-and-troubleshooting.php on line 28.
+ 1 APPPATH/Views/frontend/resoution-and-troubleshooting.php(28): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Views/frontend/index.php(3): include('/home/hklay1ww3as8/public_html/app/Views/frontend/resoution-and-troubleshooting.php')
+ 3 SYSTEMPATH/View/View.php(234): include('/home/hklay1ww3as8/public_html/app/Views/frontend/index.php')
+ 4 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 6 APPPATH/Controllers/Home.php(190): view()
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->resolutionAndTroubleshooting()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+10 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2026-02-15 19:52:27 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: resolution-and-troubleshooting]
+in APPPATH/Views/frontend/resoution-and-troubleshooting.php on line 28.
+ 1 APPPATH/Views/frontend/resoution-and-troubleshooting.php(28): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Views/frontend/index.php(3): include('/home/hklay1ww3as8/public_html/app/Views/frontend/resoution-and-troubleshooting.php')
+ 3 SYSTEMPATH/View/View.php(234): include('/home/hklay1ww3as8/public_html/app/Views/frontend/index.php')
+ 4 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 6 APPPATH/Controllers/Home.php(190): view()
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->resolutionAndTroubleshooting()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+10 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2026-02-15 19:56:33 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: resolution-and-troubleshooting]
+in APPPATH/Views/frontend/resoution-and-troubleshooting.php on line 28.
+ 1 APPPATH/Views/frontend/resoution-and-troubleshooting.php(28): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Views/frontend/index.php(3): include('/home/hklay1ww3as8/public_html/app/Views/frontend/resoution-and-troubleshooting.php')
+ 3 SYSTEMPATH/View/View.php(234): include('/home/hklay1ww3as8/public_html/app/Views/frontend/index.php')
+ 4 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 6 APPPATH/Controllers/Home.php(190): view()
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->resolutionAndTroubleshooting()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+10 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2026-02-15 20:34:52 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: resolution-and-troubleshooting]
+in APPPATH/Views/frontend/resoution-and-troubleshooting.php on line 28.
+ 1 APPPATH/Views/frontend/resoution-and-troubleshooting.php(28): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Views/frontend/index.php(3): include('/home/hklay1ww3as8/public_html/app/Views/frontend/resoution-and-troubleshooting.php')
+ 3 SYSTEMPATH/View/View.php(234): include('/home/hklay1ww3as8/public_html/app/Views/frontend/index.php')
+ 4 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 6 APPPATH/Controllers/Home.php(190): view()
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->resolutionAndTroubleshooting()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+10 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
